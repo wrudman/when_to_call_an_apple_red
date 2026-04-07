@@ -2,7 +2,7 @@
 
 > **Jonathan Nemitz¹, Carsten Eickhoff¹, Jessy Li², Kyle Mahowald², Michal Golovanevsky³\*, William Rudman²\***
 >
-> ¹University of Tübingen · ²The University of Texas at Austin · ³Harvard University
+> ¹University of Tübingen · ²The University of Texas at Austin · ³Brown University
 ---
 <img width="859" height="406" alt="sample" src="https://github.com/user-attachments/assets/2c21b590-1d0f-45bc-b613-5187a6b2924d" />
 
