@@ -139,4 +139,4 @@ This project is released under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-Object categories and color associations are drawn from the [Visual CounterFact](https://github.com/michal-golovanevsky/visual-counterfact) dataset. Human participant recruitment was conducted via [Prolific](https://www.prolific.com). This work was supported by the University of Tübingen, The University of Texas at Austin, and Harvard University.
+Object categories and color associations are drawn from the [Visual CounterFact](https://github.com/michal-golovanevsky/visual-counterfact) dataset. Human participant recruitment was conducted via [Prolific](https://www.prolific.com). This work was supported by the University of Tübingen, The University of Texas at Austin, and Brown University.
