@@ -4,6 +4,8 @@
 >
 > ¹University of Tübingen · ²The University of Texas at Austin · ³Harvard University
 ---
+<img width="859" height="406" alt="sample" src="https://github.com/user-attachments/assets/2c21b590-1d0f-45bc-b613-5187a6b2924d" />
+
 
 ## Overview
 
