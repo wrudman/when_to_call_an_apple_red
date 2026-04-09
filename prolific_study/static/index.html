@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Visual Judgment Task</title>
+
+    <!-- Silence Firefox favicon error -->
+    <link rel="icon" href="data:,">
+
+    <!-- jsPsych core -->
+    <script src="https://unpkg.com/jspsych@7.3.3"></script>
+    <link href="https://unpkg.com/jspsych@7.3.3/css/jspsych.css" rel="stylesheet" type="text/css" />
+
+    <!-- jsPsych plugins -->
+    <script src="https://unpkg.com/@jspsych/plugin-instructions@1.1.3"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-html-button-response@1.1.2"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-html-slider-response@1.1.2"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-survey-likert@1.1.2"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-survey-text@1.1.2"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-preload@1.1.2"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-call-function@1.1.2"></script>
+
+    <!-- Local scripts -->
+    <script src="jquery.min.js"></script>
+    <script src="helpers.js"></script>
+    <script src="experiment.js"></script>
+
+    <!-- Styles -->
+    <link href="custom.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+    <div class="jspsych-content" style="padding:80px 0;font-size:20px;text-align:left;">
+
+        <div style="text-align:center; margin-bottom:30px;">
+            <img src="img/Tuebingen_Logo.png" height="80" style="margin:0 30px;">
+            <img src="img/Brown_Logo.png" height="80" style="margin:0 30px;">
+            <img src="img/UTAustin_Logo.png" height="80" style="margin:0 30px;">
+        </div>
+
+
+        <p style="text-align:center;">
+            <br><b>
+                HEALTH NLP LAB <br>
+                University of Tübingen · Brown University · The University of Texas at Austin
+            </b>
+        </p>
+
+        <p>Dear Participant,</p>
+
+        <p>
+            Thank you for your interest! In this experiment, you will be shown a series of images and asked to answer
+            questions about each image. The study is expected to take about 15 minutes. 
+        </p>
+
+        <p>
+            You are being asked to participate in a research project conducted at the
+            University of Tübingen, Brown University, and The University of Texas at Austin
+            under the direction of Prof. Carsten Eickhoff.
+
+        </p>
+
+        <p>
+            Your participation is voluntary. You may withdraw at any time without penalty.
+            There are no known risks associated with participation. 
+        </p>
+
+        <p>
+            All responses are associated only with a Prolific Subject ID and are confidential.
+            Unidentifiable data may be shared publicly for research transparency and be used to create an open-source dataset distributed via Hugging Face. 
+        </p>
+
+        <p>
+            You will be reimbursed at a rate of $11,44/hr (£8,40/hr) for your participation. Compensation is provided only for successful completion of the study,
+            which requires answering attention check questions correctly and responding carefully throughout the task.
+        </p>
+
+        <p>
+            If you have questions, contact: <a href="mailto:jonathan.nemitz@student.uni-tuebingen.de">jonathan.nemitz@student.uni-tuebingen.de</a>
+        </p>
+
+        <p><b>Consent Statement</b></p>
+
+        <p>
+            By clicking CONSENT below, you confirm that:
+        </p>
+
+        <ul>
+            <li>You are at least 18 years old.</li>
+            <li>You have normal or corrected-to-normal vision and do not have any color vision deficiencies.</li>
+        </ul>
+
+        <div style="text-align:right;">
+            <button class="jspsych-btn" type="button" onclick="run_experiment()">CONSENT</button>
+        </div>
+
+        <p>If you do NOT agree to participate,click DECLINE.</p>
+
+        <div style="text-align:right;">
+            <button class="jspsych-btn" type="button"
+            onclick="window.location.href='decline.html'">
+            DECLINE
+            </button>
+        </div>
+
+    </div>
+
+</body>
+</html>

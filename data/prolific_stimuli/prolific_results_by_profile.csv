@@ -1,0 +1,1716 @@
+PROLIFIC_PID,certainty_change_count,color_time,correct_response,distractor_errors,exit_reason,exit_time,experiment_start_time,final_certainty,finish_time,first_certainty_time,image_path,initial_certainty,internal_node_id,intro_position,is_distractor,object,passed,percent_colored,profile_id,profile_index,question_order,response,response_index,response_label,rt,sanity_id,second_certainty_time,session_id,slider_start,stimulus,stimulus_type,study_id,study_type,subject_id,target_color,task_type,time_elapsed,timed_out,timeout_time,trial_index,trial_type,variant_region,view_history,manipulation_color
+55a13a6ffdf99b6ec83c23b8,1.0,3570.399999976158,Strongly Disagree,0.0,completed,1770118446915,1770116903914,9.0,13147.399999976158,10749.799999952316,shapes/shape_colored/circle_v2_green/FG_100_seq.png,9.0,0.0-0.0,first,False,circle,True,100.0,profile_21_first,26,[0],70,4.0,green,15034.0,1.0,14096.299999952316,6981d6b2ceb41f68f6abb244,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,55a13a6ffdf99b6ec83c23b8,green,introspection,15055,True,1770116933927.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 15034}]",green
+562a00dac8ffc20012513fbe,1.0,13020.900000000373,Strongly Disagree,0.0,completed,1770117407634,1770116900099,8.0,18038.5,16179.400000000373,shapes/shape_colored/hexagon_v0_yellow/FG_020_seq.png,8.0,0.0-0.0,last,False,hexagon,True,20.0,profile_17_last,17,[0],{'Q0': 4},4.0,yellow,20848.0,1.0,4619.600000000559,6981d63530d8fb9e6c109f80,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,562a00dac8ffc20012513fbe,yellow,color_judgment,20861,True,1770116930100.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 20847}]",yellow
+56fa7c2e51c6bf000ccb2954,1.0,13607.0,Strongly Disagree,0.0,completed,1770118096004,1770117180261,7.0,24372.0,22751.000000000015,color_images/gpt-4o/image_priors/espresso_maker_2_fd91d5b6_resized_red/BG_060_seq.png,2.0,0.0-0.0,first,False,espresso maker,True,60.0,profile_8_first,70,[0],74,4.0,white,16565.0,1.0,20314.0,6981d81a17bd11ec36251738,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,56fa7c2e51c6bf000ccb2954,white,introspection,16570,True,1770117210261.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 16564}]",red
+571bdaa76b0894001362f780,1.0,,Strongly Disagree,,completed,1769606146541,1769605546811,9.0,,,color_images/gpt-4o/image_priors/bat_(animal)_2_c58feb12_resized_brown/FG_060_seq.png,9.0,0.0-0.0,first,False,bat,True,60.0,profile_7_first,68,[0],53,4.0,brown,1575.0,1.0,,697a089f3b3890ce8164d193,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,prolific_test,571bdaa76b0894001362f780,brown,introspection,1578,True,1769605576811.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 1574}]",brown
+574da26c7f1e770007f42d11,1.0,6006.599999904633,Strongly Disagree,1.0,completed,1770117277737,1770116668816,9.0,11279.799999952316,9904.899999856949,shapes/shape_colored/pentagon_v1_pink/FG_090_seq.png,9.0,0.0-0.0,first,False,pentagon,True,90.0,profile_24_first,32,[0],35,4.0,pink,3210.0,1.0,5217.599999904633,6981d623888ecdb5a3b3a2ca,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,574da26c7f1e770007f42d11,pink,introspection,3219,True,1770116698832.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 3210}]",pink
+579f55486475d400015ab683,1.0,5147.79999999702,Strongly Disagree,0.0,completed,1770117495219,1770116666465,9.0,13070.20000000298,11677.0,color_images/gpt-4o/image_priors/lettuce_1_3a765877_resized_green/FG_060_seq.png,7.0,0.0-0.0,first,False,lettuce,True,60.0,profile_0_first,0,[0],33,4.0,green,26380.0,1.0,6453.70000000298,6981d61597018a5d4df27d2f,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,579f55486475d400015ab683,green,introspection,26384,True,1770116696466.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 26379}]",green
+57b715b842195e000159f82b,1.0,5694.799999999814,Strongly Disagree,0.0,completed,1770118210402,1770116792475,9.0,10631.5,9687.199999999255,color_images/gpt-4o/image_priors/butternut_squash_4_cca6a1a8_resized_green/FG_040_seq.png,6.0,0.0-0.0,first,False,butternut squash,True,40.0,profile_9_first,72,[0],33,4.0,green,1920.0,1.0,6975.299999999814,6981d6af25d74e9ffb569f43,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,57b715b842195e000159f82b,green,introspection,1935,True,1770116822481.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 1920}]",green
+58954e2dc88c680001dd4b7e,1.0,2671.900000035763,Strongly Disagree,0.0,completed,1770117351101,1770116811389,,14125.600000023842,13130.199999988079,shapes/shape_colored/circle_v1_green/FG_060_seq.png,10.0,0.0-0.0,last,False,circle,True,60.0,profile_35_last,57,[0],{'Q0': 4},4.0,green,32027.0,1.0,,6981d68ff05219bab5a06fe2,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,58954e2dc88c680001dd4b7e,green,color_judgment,32075,True,1770116841393.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 32026}]",green
+58c1ce3c3783090001b49355,1.0,3779.7999999821186,Strongly Disagree,0.0,completed,1770117169214,1770116669322,4.0,11639.399999976158,10952.699999988079,shapes/shape_colored/pentagon_v0_orange/FG_050_seq.png,8.0,0.0-0.0,first,False,pentagon,True,50.0,profile_31_first,48,[0],67,4.0,orange,7834.0,1.0,7883.9000000059605,6981d62bc819b79b2f3440bc,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,58c1ce3c3783090001b49355,orange,introspection,7845,True,1770116699324.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 7834}]",orange
+58f669cefb4d7500014af69b,1.0,3401.199999988079,Strongly Disagree,1.0,completed,1770117330002,1770116689955,,11009.699999988079,9941.899999976158,color_images/gpt-4o/counterfact/rose_3_64713026_resized_blue/FG_100_seq.png,10.0,0.0-0.0,first,False,rose,True,100.0,profile_28_first,40,[0],51,4.0,blue,18574.0,1.0,,6981d623f32faf10e34dd100,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,main,58f669cefb4d7500014af69b,blue,introspection,18628,True,1770116719955.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 18574}]",blue
+592a8ee1dd1a250001b4ee72,1.0,5813.199999928474,Strongly Disagree,0.0,completed,1770117407260,1770116748061,,10165.199999928474,8912.0,shapes/shape_colored/square_v2_red/FG_055_seq.png,7.0,0.0-0.0,first,False,square,True,55.0,profile_19_first,20,[0],60,4.0,red,4859.0,1.0,,6981d669bd4839695c4978fe,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,592a8ee1dd1a250001b4ee72,red,introspection,4869,True,1770116778065.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 4859}]",red
+5985f6bdeef500000111db98,1.0,5618.5,Strongly Disagree,0.0,completed,1770117708242,1770116797735,9.0,11496.299999952316,10161.799999952316,shapes/shape_colored/hexagon_v2_blue/BG_020_seq.png,10.0,0.0-0.0,first,False,hexagon,True,20.0,profile_18_first,18,[0],25,4.0,white,13075.0,1.0,7122.0,6981d6a31f4288db93109f87,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5985f6bdeef500000111db98,white,introspection,13123,True,1770116827740.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 13074}]",blue
+5997043dbbe84800017964a7,1.0,,Strongly Disagree,2.0,failed_distractor,1769605029862,1769604712731,9.0,,,color_images/gpt-4o/image_priors/Old_English_sheepdog_4_51cd66d5_resized_grey/FG_040_seq.png,9.0,0.0-0.0,last,False,old english sheepdog,True,40.0,profile_6_last,67,[0],{'Q0': 4},4.0,white,11700.0,1.0,,697a064c0ed7d9794f847401,,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,prolific_test,5997043dbbe84800017964a7,grey,color_judgment,11739,True,1769604742731.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 11700}]",grey
+59de66cac0d35a0001294c46,1.0,3238.60000000149,Strongly Disagree,0.0,completed,1770117571488,1770116805269,10.0,9305.0,7601.300000000745,shapes/shape_colored/circle_v1_yellow/FG_060_seq.png,10.0,0.0-0.0,last,False,circle,True,60.0,profile_30_last,47,[0],{'Q0': 4},4.0,yellow,19280.0,1.0,3437.199999999255,6981d68d525f6a4aca52e45d,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,59de66cac0d35a0001294c46,yellow,color_judgment,19291,True,1770116835270.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 19280}]",yellow
+59fc2094087f2e0001ead5fa,1.0,5429.5,Strongly Disagree,1.0,completed,1770118057425,1770117439571,9.0,16493.900000000373,15533.400000000373,shapes/shape_colored/hexagon_v4_orange/FG_020_seq.png,8.0,0.0-0.0,first,False,hexagon,True,20.0,profile_5_first,64,[0],75,4.0,white,22970.0,1.0,4450.199999999255,6981d9145ed8a92fe723b256,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,59fc2094087f2e0001ead5fa,orange,introspection,22976,True,1770117469572.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 22969}]",orange
+5a381de00006450001bf2691,1.0,,Strongly Disagree,,completed,1769605269189,1769604706487,10.0,,,shapes/shape_colored/hexagon_v0_yellow/FG_020_seq.png,10.0,0.0-0.0,last,False,hexagon,True,20.0,profile_17_last,17,[0],{'Q0': 4},4.0,yellow,14626.0,1.0,,697a06455a5cd2b7a582d785,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,prolific_test,5a381de00006450001bf2691,yellow,color_judgment,14629,True,1769604736499.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 14626}]",yellow
+5a9ac3061eda410001366658,1.0,6314.600000143051,Strongly Disagree,1.0,completed,1770475853630,1770475173517,9.0,12428.900000095367,10040.800000190735,color_images/gpt-4o/image_priors/crab_1_3143c135_resized_red/BG_060_seq.png,10.0,0.0-0.0,last,False,crab,True,60.0,profile_12_last,29,[0],{'Q0': 4},4.0,white,7318.0,1.0,4399.899999856949,69874e7c8d463e63781e3687,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",correct_prior,6980c852b1ec006643f6873c,main,5a9ac3061eda410001366658,white,color_judgment,7327,True,1770475203525.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 7317}]",red
+5ab8c3fb9534ba0001c6b60d,2.0,16154.299999952316,Strongly Disagree,0.0,completed,1770117663284,1770116807123,6.0,62382.69999998808,57084.09999996424,color_images/gpt-4o/image_priors/beets_2_c2d2422e_resized_red/FG_020_seq.png,9.0,0.0-0.0,last,False,beets,True,20.0,profile_2_last,45,[0],{'Q0': 4},4.0,red,8622.0,1.0,59255.89999997616,6981d6b0a4753f62f233c667,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5ab8c3fb9534ba0001c6b60d,red,color_judgment,9660,True,1770116837140.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 8622}]",red
+5acd0749a3ba7a0001b50834,1.0,10650.20000000298,Strongly Disagree,1.0,completed,1770117798842,1770116939897,8.0,20358.0,19741.5,shapes/shape_colored/triangle_v4_blue/FG_080_seq.png,8.0,0.0-0.0,last,False,triangle,True,80.0,profile_34_last,55,[0],{'Q0': 4},4.0,blue,20019.0,1.0,7254.5999999940395,6981d72c9ef1b71ec4834f39,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5acd0749a3ba7a0001b50834,blue,color_judgment,20039,True,1770116969898.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 20018}]",blue
+5b17642244127b00013f7f65,1.0,14708.199999928474,Strongly Disagree,0.0,completed,1770117526198,1770116798638,8.0,18710.0,17458.399999976158,shapes/shape_colored/triangle_v2_pink/FG_080_seq.png,8.0,0.0-0.0,first,False,triangle,True,80.0,profile_29_first,42,[0],25,4.0,pink,26355.0,1.0,13577.299999952316,6981d6571b78ac475b09926e,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5b17642244127b00013f7f65,pink,introspection,26368,True,1770116828643.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 26354}]",pink
+5b7467ea50075a0001107043,1.0,2477.0,Strongly Disagree,0.0,completed,1770117303577,1770116723089,9.0,5748.0,4764.0,shapes/shape_colored/triangle_v4_blue/FG_080_seq.png,10.0,0.0-0.0,last,False,triangle,True,80.0,profile_34_last,55,[0],{'Q0': 4},4.0,blue,12341.0,1.0,5849.0,6981d6527d50ff9af619a34d,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5b7467ea50075a0001107043,blue,color_judgment,12350,True,1770116753089.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 12341}]",blue
+5b7550cb09105000015131ae,1.0,9291.200000047684,Strongly Disagree,0.0,completed,1770117061080,1770116644513,10.0,12387.399999856949,11609.0,shapes/shape_colored/circle_v1_green/FG_060_seq.png,8.0,0.0-0.0,last,False,circle,True,60.0,profile_35_last,57,[0],{'Q0': 4},4.0,green,14905.0,1.0,4842.0,6981d60545e64c7199d8902b,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5b7550cb09105000015131ae,green,color_judgment,14914,True,1770116674524.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 14905}]",green
+5ba0c90d2ff2f900019396b7,1.0,14377.40000000596,Strongly Disagree,0.0,completed,1770117315173,1770116810148,7.0,18434.70000000298,17309.60000000894,color_images/gpt-4o/image_priors/Old_English_sheepdog_4_51cd66d5_resized_grey/FG_040_seq.png,6.0,0.0-0.0,first,False,old english sheepdog,True,40.0,profile_6_first,66,[0],70,4.0,grey,17747.0,1.0,4828.5999999940395,6981d6a5f241eb66fdc9e390,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5ba0c90d2ff2f900019396b7,grey,introspection,17749,True,1770116840148.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 17747}]",grey
+5ba292385301b80001c71ba2,1.0,7189.0,Strongly Disagree,0.0,completed,1770117441021,1770116804121,10.0,11455.0,9231.0,shapes/shape_colored/hexagon_v0_yellow/FG_020_seq.png,10.0,0.0-0.0,last,False,hexagon,True,20.0,profile_17_last,17,[0],{'Q0': 4},4.0,white,15935.0,1.0,5937.0,6981d6a47c799117c6fe2a9a,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5ba292385301b80001c71ba2,yellow,color_judgment,15940,True,1770116834145.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 15935}]",yellow
+5bedb3c2e3368e0001e0225c,2.0,3566.7000000178814,Strongly Disagree,0.0,completed,1770117812307,1770116929373,8.0,12117.300000011921,7676.600000023842,shapes/shape_colored/triangle_v2_pink/FG_080_seq.png,10.0,0.0-0.0,first,False,triangle,True,80.0,profile_29_first,42,[0],75,4.0,pink,7968.0,1.0,10174.300000011921,6981d6a86e91df4fd82f908a,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5bedb3c2e3368e0001e0225c,pink,introspection,7986,True,1770116959374.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 7968}]",pink
+5bf1c9d332cb3b0001f6f1c3,1.0,3060.599999997765,Strongly Disagree,1.0,completed,1770117353306,1770116699962,8.0,7582.79999999702,6044.699999999255,shapes/shape_colored/triangle_v2_red/BG_080_seq.png,10.0,0.0-0.0,last,False,triangle,True,80.0,profile_16_last,15,[0],0,4.0,white,11945.0,1.0,3718.0,6981d645433c01fdbd317fd2,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5bf1c9d332cb3b0001f6f1c3,white,color_judgment,11958,True,1770116729964.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 11945}]",red
+5bf8a27021a4e1000194fc76,1.0,,Strongly Disagree,1.0,completed,1769605586286,1769605024569,6.0,,,color_images/gpt-4o/image_priors/beets_2_c2d2422e_resized_red/FG_020_seq.png,6.0,0.0-0.0,last,False,beets,True,20.0,profile_2_last,45,[0],{'Q0': 4},4.0,red,14676.0,1.0,,697a0786888e33c300bb4037,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,prolific_test,5bf8a27021a4e1000194fc76,red,color_judgment,14687,True,1769605054639.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 14676}]",red
+5bfd667f1fe1e50001406d4c,2.0,3213.0,Strongly Disagree,0.0,completed,1770117079897,1770116660989,9.0,11953.0,7283.0,shapes/shape_colored/pentagon_v1_pink/FG_090_seq.png,10.0,0.0-0.0,last,False,pentagon,True,90.0,profile_24_last,33,[0],{'Q0': 4},4.0,pink,1794.0,1.0,10986.0,6981d62748669edf2fd2724a,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5bfd667f1fe1e50001406d4c,pink,color_judgment,1797,True,1770116690997.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 1794}]",pink
+5c1021a547d07800011a23de,1.0,12470.10000038147,Strongly Disagree,0.0,completed,1770475912296,1770475154469,10.0,16326.10000038147,15242.0,shapes/shape_colored/triangle_v2_red/BG_080_seq.png,10.0,0.0-0.0,first,False,triangle,True,80.0,profile_16_first,24,[0],70,4.0,white,16070.0,1.0,6462.799999713898,69874e6fe01080053667c0ea,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6980c852b1ec006643f6873c,main,5c1021a547d07800011a23de,white,introspection,16101,True,1770475184477.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 16070}]",red
+5c23c651d9435800010b7e48,1.0,18662.400000035763,Strongly Disagree,0.0,completed,1770117793612,1770116994231,9.0,24501.0,22169.80000001192,shapes/shape_colored/hexagon_v0_yellow/FG_020_seq.png,10.0,0.0-0.0,last,False,hexagon,True,20.0,profile_17_last,17,[0],{'Q0': 4},4.0,yellow,21088.0,1.0,14676.899999976158,6981d6a8c82af4bc9fb79dd7,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5c23c651d9435800010b7e48,yellow,color_judgment,21145,True,1770117024235.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 21088}]",yellow
+5c5346b553fba80001bc9662,1.0,9746.0,Strongly Disagree,1.0,completed,1770117495546,1770116677573,,15207.0,13751.0,shapes/shape_colored/circle_v1_yellow/FG_060_seq.png,8.0,0.0-0.0,first,False,circle,True,60.0,profile_30_first,46,[0],60,4.0,yellow,6468.0,1.0,,6981d62d0a2f348ec945c88c,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5c5346b553fba80001bc9662,yellow,introspection,6472,True,1770116707577.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 6468}]",yellow
+5c59836a192d350001d5afbd,1.0,6484.600000023842,Strongly Disagree,0.0,completed,1770117382739,1770116786520,9.0,8947.200000047684,8298.700000047684,color_images/gpt-4o/image_priors/espresso_maker_2_fd91d5b6_resized_red/BG_060_seq.png,10.0,0.0-0.0,last,False,espresso maker,True,60.0,profile_8_last,71,[0],{'Q0': 4},4.0,white,17146.0,1.0,3894.6999999284744,6981d628548cc23386badcd3,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5c59836a192d350001d5afbd,white,color_judgment,17156,True,1770116816532.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 17145}]",red
+5c5cad3e4ee81200018eafe2,1.0,,Strongly Disagree,,completed,1769605719886,1769604862872,10.0,,,shapes/shape_colored/pentagon_v2_red/FG_030_seq.png,10.0,0.0-0.0,last,False,pentagon,True,30.0,profile_33_last,53,[0],{'Q0': 4},4.0,red,12588.0,1.0,,697a06c1acbd68a0f7ec1a06,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,prolific_test,5c5cad3e4ee81200018eafe2,red,color_judgment,12593,True,1769604893287.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 12588}]",red
+5c5ff87f8c0552000109d7de,1.0,3462.300000011921,Strongly Disagree,1.0,completed,1770117915843,1770117140565,1.0,11646.0,10445.600000023842,shapes/shape_colored/hexagon_v4_orange/FG_020_seq.png,10.0,0.0-0.0,last,False,hexagon,True,20.0,profile_5_last,65,[0],0,4.0,orange,10038.0,1.0,26597.400000035763,6981d60d59bed95abc565ede,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5c5ff87f8c0552000109d7de,orange,color_judgment,10054,True,1770117170567.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 10037}]",orange
+5c63e773f9b6300001c9ce20,1.0,3025.0,Strongly Disagree,0.0,completed,1770117860932,1770116737239,8.0,8042.0,4809.0,shapes/shape_colored/hexagon_v2_yellow/FG_090_seq.png,10.0,0.0-0.0,first,False,hexagon,True,90.0,profile_27_first,38,[0],70,4.0,yellow,7746.0,1.0,3374.0,6981d62ff05219bab5a06fd3,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5c63e773f9b6300001c9ce20,yellow,introspection,7756,True,1770116767242.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 7745}]",yellow
+5c81582c4c1a61000155584f,1.0,10637.79999999702,Strongly Disagree,0.0,completed,1770117790213,1770116742922,9.0,17153.29999999702,14292.70000000298,color_images/gpt-4o/image_priors/sleigh_1_62feb148_resized_red/FG_050_seq.png,7.0,0.0-0.0,last,False,sleigh,True,50.0,profile_23_last,31,[0],{'Q0': 4},4.0,red,82440.0,1.0,5934.600000008941,6981d6031f8ac738d6cc35ba,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5c81582c4c1a61000155584f,red,color_judgment,82621,True,1770116772924.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 82439}]",red
+5c8651b69a306000016f7c35,1.0,5869.300000000279,Strongly Disagree,0.0,completed,1770117389719,1770116860761,9.0,13646.0,11981.5,color_images/gpt-4o/counterfact/rose_3_64713026_resized_blue/FG_100_seq.png,10.0,0.0-0.0,first,False,rose,True,100.0,profile_28_first,40,[0],50,4.0,blue,12129.0,1.0,9917.5,6981d69faebee71de29d65e7,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,main,5c8651b69a306000016f7c35,blue,introspection,12152,True,1770116890763.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 12128}]",blue
+5cab22cd68194f001511b2d6,1.0,2121.0,Strongly Disagree,0.0,completed,1770117688774,1770116780170,10.0,5034.0,3952.0,shapes/shape_colored/triangle_v2_pink/FG_080_seq.png,10.0,0.0-0.0,last,False,triangle,True,80.0,profile_29_last,43,[0],{'Q0': 4},4.0,pink,73484.0,1.0,4041.0,6981d6301b107a750d3284d6,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5cab22cd68194f001511b2d6,pink,color_judgment,73499,True,1770116810172.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 73483}]",pink
+5d1e21259f866e0001e83b7f,1.0,3405.300000011921,Strongly Disagree,0.0,completed,1770117366119,1770116822467,10.0,8340.800000011921,7429.300000011921,color_images/gpt-4o/image_priors/bat_(animal)_2_c58feb12_resized_brown/FG_060_seq.png,9.0,0.0-0.0,first,False,bat,True,60.0,profile_7_first,68,[0],76,4.0,brown,9417.0,1.0,5937.899999976158,6981d6bef048f9dc475abd09,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5d1e21259f866e0001e83b7f,brown,introspection,9432,True,1770116852469.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 9415}]",brown
+5d3821f0ddea5a0001757f93,1.0,21226.30000001192,Strongly Disagree,0.0,completed,1770118472193,1770117687997,6.0,25193.5,24026.5,shapes/shape_colored/pentagon_v4_purple/FG_060_seq.png,7.0,0.0-0.0,first,False,pentagon,True,60.0,profile_26_first,36,[0],92,4.0,purple,21937.0,1.0,8510.5,6981da03b3560091e53fcf75,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5d3821f0ddea5a0001757f93,purple,introspection,21940,True,1770117717998.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 21936}]",purple
+5d4b085ef76ba3001c7510de,1.0,5501.699999809265,Strongly Disagree,0.0,completed,1770117262846,1770116772859,8.0,13010.699999809265,12108.5,color_images/gpt-4o/image_priors/butternut_squash_4_cca6a1a8_resized_green/FG_040_seq.png,8.0,0.0-0.0,first,False,butternut squash,True,40.0,profile_9_first,72,[0],60,4.0,green,10513.0,1.0,4423.700000047684,6981d691ed7ccc26bda46e9a,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5d4b085ef76ba3001c7510de,green,introspection,10521,True,1770116802874.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 10513}]",green
+5d9b7c7efaa2860364b16476,1.0,7419.5,Strongly Disagree,0.0,completed,1770118087360,1770116878143,6.0,40454.89999961853,27773.099999904633,shapes/shape_colored/pentagon_v0_orange/FG_050_seq.png,10.0,0.0-0.0,last,False,pentagon,True,50.0,profile_31_last,49,[0],{'Q0': 4},4.0,orange,42287.0,1.0,18992.699999809265,6981d698c802255d0d0d1423,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5d9b7c7efaa2860364b16476,orange,color_judgment,42297,True,1770116908152.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 42287}]",orange
+5dbecb5e30c4d737494efe10,1.0,4544.300000190735,Strongly Disagree,0.0,completed,1770117996501,1770117028364,9.0,20060.0,9114.800000190735,shapes/shape_colored/triangle_v2_pink/FG_080_seq.png,9.0,0.0-0.0,first,False,triangle,True,80.0,profile_29_first,42,[0],75,4.0,pink,24283.0,1.0,10627.799999713898,6981d6b0522912ef6d4548cd,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5dbecb5e30c4d737494efe10,pink,introspection,24311,True,1770117058366.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 24283}]",pink
+5dcdd1518b918909ba133987,1.0,9763.200000000186,Strongly Disagree,0.0,completed,1770118205514,1770117294142,,16593.600000000093,12475.80000000028,shapes/shape_colored/pentagon_v0_pink/FG_005_seq.png,10.0,0.0-0.0,first,False,pentagon,True,5.0,profile_20_first,24,[0],75,4.0,white,9108.0,1.0,,6981d8988694cc520464961a,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5dcdd1518b918909ba133987,pink,introspection,9120,True,1770117324143.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 9108}]",pink
+5dd2ccf12e6c772de06f525b,1.0,4524.899999976158,Strongly Disagree,0.0,completed,1770117186247,1770116663290,8.0,9561.399999976158,8552.399999976158,color_images/gpt-4o/image_priors/sleigh_1_62feb148_resized_red/FG_050_seq.png,7.0,0.0-0.0,last,False,sleigh,True,50.0,profile_23_last,31,[0],{'Q0': 4},4.0,red,1722.0,1.0,4055.400000035763,6981d62c8fcaa26b61c71e64,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5dd2ccf12e6c772de06f525b,red,color_judgment,1731,True,1770116693292.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 1721}]",red
+5dde8fba82f458000c8c7c75,1.0,11277.799999999814,Strongly Disagree,0.0,completed,1770117528355,1770116655864,4.0,20943.299999999814,19257.799999999814,shapes/shape_colored/hexagon_v2_yellow/FG_090_seq.png,10.0,0.0-0.0,last,False,hexagon,True,90.0,profile_27_last,39,[0],{'Q0': 4},4.0,yellow,27372.0,1.0,10197.099999999627,6981d60a7d1085d665722101,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5dde8fba82f458000c8c7c75,yellow,color_judgment,27394,True,1770116685869.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 27372}]",yellow
+5de966a035fcd40948c78ff1,2.0,3854.000000000002,Strongly Disagree,0.0,completed,1770117111654,1770116631812,10.0,23195.0,18335.999999999993,shapes/shape_colored/circle_v1_yellow/FG_060_seq.png,9.0,0.0-0.0,last,False,circle,True,60.0,profile_30_last,47,[0],{'Q0': 4},4.0,white,7938.0,1.0,22210.0,6981d602aafc529e45f74c82,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5de966a035fcd40948c78ff1,yellow,color_judgment,7946,True,1770116661813.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 7938}]",yellow
+5e0f26b63ccda26295505f0d,1.0,4896.0,Strongly Disagree,2.0,failed_distractor,1770117420737,1770117046288,,12074.300000190735,11085.600000143051,shapes/shape_colored/hexagon_v2_yellow/FG_090_seq.png,10.0,0.0-0.0,first,False,hexagon,True,90.0,profile_27_first,38,[0],61,4.0,yellow,120974.0,1.0,,6981d7204554ff2c017bb4ab,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5e0f26b63ccda26295505f0d,yellow,introspection,120989,True,1770117076289.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 120973}]",yellow
+5e35cdd13b22bc5789b14d86,1.0,6315.600000023842,Strongly Disagree,0.0,completed,1770117904012,1770116965709,10.0,10856.199999988079,9621.0,shapes/shape_colored/hexagon_v2_blue/BG_020_seq.png,10.0,0.0-0.0,first,False,hexagon,True,20.0,profile_18_first,18,[0],80,4.0,white,110874.0,1.0,6651.700000047684,6981d62aa864a4eec0d27240,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5e35cdd13b22bc5789b14d86,white,introspection,110881,True,1770116995710.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 110873}]",blue
+5e3723a2c0b2896ad554be73,1.0,4613.199999999255,Strongly Disagree,0.0,completed,1770117478107,1770116646807,,12014.699999999255,10864.199999999255,color_images/gpt-4o/image_priors/great_white_shark_4_c223edfe_resized_grey/FG_000_seq.png,10.0,0.0-0.0,last,False,great white shark,True,0.0,profile_14_last,11,[0],{'Q0': 4},4.0,white,22238.0,1.0,,6981d607b0f833782949d673,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5e3723a2c0b2896ad554be73,white,color_judgment,22270,True,1770116676808.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 22238}]",grey
+5e3ddcf95556b204cb143eab,1.0,2301.8999996185303,Strongly Disagree,0.0,completed,1770117207663,1770116680483,9.0,5323.0,4480.799999237061,shapes/shape_colored/triangle_v2_pink/FG_080_seq.png,10.0,0.0-0.0,last,False,triangle,True,80.0,profile_29_last,43,[0],{'Q0': 4},4.0,pink,15900.0,1.0,3156.3999996185303,6981d62ae95caed1d9f9f171,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5e3ddcf95556b204cb143eab,pink,color_judgment,15917,True,1770116710484.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 15899}]",pink
+5e64fc338ebdaf26e332aec0,1.0,15618.599999964237,Strongly Disagree,0.0,completed,1770117930252,1770116859393,6.0,24573.399999976158,22695.5,color_images/gpt-4o/image_priors/lettuce_1_3a765877_resized_green/FG_060_seq.png,10.0,0.0-0.0,first,False,lettuce,True,60.0,profile_0_first,0,[0],80,4.0,green,44613.0,1.0,38464.90000003576,6981d6abd7a7f88c81b23c39,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5e64fc338ebdaf26e332aec0,green,introspection,44621,True,1770116889400.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 44613}]",green
+5e6ce118673e50000c303890,1.0,5890.000000000004,Strongly Disagree,1.0,completed,1770117765548,1770117058890,10.0,27134.0,26017.000000000007,color_images/gpt-4o/image_priors/great_white_shark_4_c223edfe_resized_grey/FG_000_seq.png,10.0,0.0-0.0,last,False,great white shark,True,0.0,profile_14_last,11,[0],{'Q0': 4},4.0,white,12032.0,1.0,8760.0,6981d79b497c6e4a2a1f585e,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5e6ce118673e50000c303890,white,color_judgment,12045,True,1770117088892.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 12032}]",grey
+5e8b9c7054a5cc07dd6e174d,1.0,4442.699999988079,Strongly Disagree,0.0,completed,1770477094161,1770476477662,8.0,14925.59999999404,14181.800000011921,shapes/shape_colored/pentagon_v2_red/FG_030_seq.png,9.0,0.0-0.0,last,False,pentagon,True,30.0,profile_33_last,46,[0],{'Q0': 4},4.0,red,12669.0,1.0,5318.4000000059605,698753a446112de6e8617081,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6980c852b1ec006643f6873c,main,5e8b9c7054a5cc07dd6e174d,red,color_judgment,12676,True,1770476507670.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 12669}]",red
+5eab170759f5390b776df5a1,1.0,10203.299999982119,Strongly Disagree,0.0,completed,1770117297142,1770116670481,9.0,13963.09999999404,13046.199999988079,color_images/gpt-4o/image_priors/butternut_squash_4_cca6a1a8_resized_green/FG_040_seq.png,8.0,0.0-0.0,first,False,butternut squash,True,40.0,profile_9_first,72,[0],80,4.0,green,47497.0,1.0,6651.4000000059605,6981d60495ac1a446ec5ce99,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5eab170759f5390b776df5a1,green,introspection,47508,True,1770116700482.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 47496}]",green
+5edeea354d54cb1a825aa8f9,1.0,21283.5,Strongly Disagree,0.0,completed,1770118055994,1770116767950,10.0,50098.89999997616,28767.099999964237,shapes/shape_colored/hexagon_v4_orange/FG_020_seq.png,10.0,0.0-0.0,last,False,hexagon,True,20.0,profile_5_last,65,[0],{'Q0': 4},4.0,orange,30979.0,1.0,10821.0,6981d65fb550f4ceb784e63e,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5edeea354d54cb1a825aa8f9,orange,color_judgment,31008,True,1770116797951.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 30978}]",orange
+5eeb58ec4c86582a76ff55ec,1.0,3664.199999988079,Strongly Disagree,1.0,completed,1770117794810,1770117110427,9.0,10248.59999999404,8047.899999991059,shapes/shape_colored/square_v2_pink/FG_030_seq.png,10.0,0.0-0.0,first,False,square,True,30.0,profile_1_first,22,[0],85,4.0,pink,463989.0,1.0,7519.0,6981d61c654c7a86f21cf677,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5eeb58ec4c86582a76ff55ec,pink,introspection,464009,True,1770117140428.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 463988}]",pink
+5efca85159e09c06e7d064ba,1.0,11051.0,Strongly Disagree,0.0,completed,1770117536667,1770116846993,10.0,21412.000000000007,19459.0,shapes/shape_colored/circle_v1_red/FG_050_seq.png,10.0,0.0-0.0,last,False,circle,True,50.0,profile_22_last,29,[0],{'Q0': 4},4.0,red,11818.0,1.0,10117.999999999942,6981d6d0d7d8f7cc68295d2d,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5efca85159e09c06e7d064ba,red,color_judgment,11829,True,1770116876994.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 11817}]",red
+5efcb50255a06b097b8d5d29,1.0,10856.700000000186,Strongly Disagree,0.0,completed,1770117791242,1770116691878,3.0,19339.700000000186,16529.0,color_images/gpt-4o/image_priors/butternut_squash_4_cca6a1a8_resized_green/FG_040_seq.png,10.0,0.0-0.0,first,False,butternut squash,True,40.0,profile_9_first,72,[0],51,4.0,green,25663.0,1.0,26883.39999999944,6981d61ea697066a5affa5ec,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5efcb50255a06b097b8d5d29,green,introspection,25697,True,1770116721880.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 25661}]",green
+5f01ea96d68caf0539cc6967,2.0,23895.70000000298,Strongly Disagree,0.0,completed,1770117446073,1770116700248,10.0,30781.60000000149,27819.60000000149,color_images/gpt-4o/image_priors/crab_1_3143c135_resized_red/BG_060_seq.png,8.0,0.0-0.0,first,False,crab,True,60.0,profile_12_first,6,[0],100,4.0,white,7930.0,1.0,30011.70000000298,6981d61d7851b4eeee5df010,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5f01ea96d68caf0539cc6967,white,introspection,7941,True,1770116730249.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 7930}]",red
+5f1088e27a43fe0c64ca5814,1.0,16597.5,Strongly Disagree,0.0,completed,1770117319483,1770116690171,5.0,21415.80000001192,20377.30000001192,shapes/shape_colored/hexagon_v4_orange/FG_020_seq.png,9.0,0.0-0.0,first,False,hexagon,True,20.0,profile_5_first,64,[0],19,4.0,white,21589.0,1.0,7807.799999982119,6981d627f97aeb56057a1150,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5f1088e27a43fe0c64ca5814,orange,introspection,21591,True,1770116720171.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 21589}]",orange
+5f25e860dd98342ce97e7403,1.0,10292.5,Strongly Disagree,1.0,completed,1770117261777,1770116662417,8.0,13405.299999999814,12800.600000000559,color_images/gpt-4o/counterfact/tuba_2_35148fb8_resized_red/FG_030_seq.png,7.0,0.0-0.0,last,False,tuba,True,30.0,profile_3_last,61,[0],{'Q0': 4},4.0,red,5991.0,1.0,3373.0,6981d6208c7bba309fd4f8cc,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,main,5f25e860dd98342ce97e7403,red,color_judgment,6001,True,1770116692418.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 5990}]",red
+5f3adfbf2e598b7a0b73c45e,1.0,7962.0,Strongly Disagree,0.0,completed,1770117197118,1770116662731,10.0,15728.0,14228.0,shapes/shape_colored/pentagon_v0_pink/FG_005_seq.png,8.0,0.0-0.0,last,False,pentagon,True,5.0,profile_20_last,25,[0],{'Q0': 4},4.0,white,5852.0,1.0,6365.0,6981d620f18f246d8549ab6e,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5f3adfbf2e598b7a0b73c45e,pink,color_judgment,5859,True,1770116692733.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 5852}]",pink
+5f4a8c8347b9fe5082353a3c,1.0,10789.599999964237,Strongly Disagree,0.0,completed,1770117979815,1770116857579,6.0,21252.899999976158,18869.299999952316,shapes/shape_colored/circle_v1_yellow/FG_060_seq.png,6.0,0.0-0.0,first,False,circle,True,60.0,profile_30_first,46,[0],51,4.0,yellow,32136.0,1.0,28831.099999964237,6981d6afb16c10d8dfffecc5,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5f4a8c8347b9fe5082353a3c,yellow,introspection,32156,True,1770116887593.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 32135}]",yellow
+5f69f87e83dfd701bfc84b39,1.0,7216.9000000003725,Strongly Disagree,0.0,completed,1770117438638,1770116675307,6.0,14619.0,12998.200000000186,shapes/shape_colored/hexagon_v4_orange/FG_020_seq.png,7.0,0.0-0.0,first,False,hexagon,True,20.0,profile_5_first,64,[0],64,4.0,white,6157.0,1.0,7103.299999999814,6981d62fd1c15ea8eb793241,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5f69f87e83dfd701bfc84b39,orange,introspection,6188,True,1770116705311.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 6157}]",orange
+5f6f2da91b5cc64887afd65d,1.0,4426.70000000298,Strongly Disagree,0.0,completed,1770118388784,1770117436976,7.0,14772.09999999404,12753.09999999404,color_images/gpt-4o/image_priors/crab_1_3143c135_resized_red/BG_060_seq.png,10.0,0.0-0.0,first,False,crab,True,60.0,profile_12_first,6,[0],62,4.0,white,17673.0,1.0,10172.59999999404,6981d9080d6f44237ea8183e,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5f6f2da91b5cc64887afd65d,white,introspection,17704,True,1770117466980.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 17672}]",red
+5f9802a1306ea3045e8c0b43,1.0,9922.400000000373,Strongly Disagree,0.0,completed,1770117944414,1770117224779,9.0,15172.700000001118,13386.599999999627,color_images/gpt-4o/image_priors/ant_4_96b67bf0_resized_red/FG_080_seq.png,8.0,0.0-0.0,first,False,ant,True,80.0,profile_10_first,2,[0],80,4.0,red,14661.0,1.0,10453.699999999255,6981d8531ac0bf85ac09dfa7,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5f9802a1306ea3045e8c0b43,red,introspection,14667,True,1770117254783.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 14661}]",red
+5fad3af0a272a23e5aef2aa6,1.0,3400.2000000476837,Strongly Disagree,0.0,completed,1770117395829,1770116811473,8.0,22285.100000023842,21071.80000001192,shapes/shape_colored/square_v2_red/FG_055_seq.png,7.0,0.0-0.0,first,False,square,True,55.0,profile_19_first,20,[0],75,4.0,red,103971.0,1.0,14744.899999976158,6981d62edf4bf675d16373ca,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,5fad3af0a272a23e5aef2aa6,red,introspection,123443,True,1770116841474.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 103971}]",red
+5fb551ccab996500099ab1aa,1.0,,Strongly Disagree,,completed,1769608617037,1769607687932,6.0,,,shapes/shape_colored/square_v1_blue/FG_020_seq.png,6.0,0.0-0.0,first,False,square,True,20.0,profile_36_first,58,[0],50,4.0,white,1580.0,1.0,,697a10816e9070e2481ca804,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,prolific_test,5fb551ccab996500099ab1aa,blue,introspection,1586,True,1769607717946.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 1580}]",blue
+5fda057989ec4c35a700f69f,1.0,6280.60000038147,Strongly Disagree,0.0,completed,1770117412697,1770116787392,9.0,11947.900000095367,10912.5,color_images/gpt-4o/image_priors/sleigh_1_62feb148_resized_red/FG_050_seq.png,4.0,0.0-0.0,last,False,sleigh,True,50.0,profile_23_last,31,[0],{'Q0': 4},4.0,red,10385.0,1.0,7749.900000095367,6981d69e041ed6db7594893a,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,5fda057989ec4c35a700f69f,red,color_judgment,10402,True,1770116817407.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 10385}]",red
+600a97750a20c621b3d6d358,1.0,3651.0,Strongly Disagree,0.0,completed,1770117555211,1770116701151,5.0,11131.0,9524.0,shapes/shape_colored/circle_v2_green/FG_100_seq.png,10.0,0.0-0.0,last,False,circle,True,100.0,profile_21_last,27,[0],{'Q0': 4},4.0,green,78955.0,1.0,10446.0,6981d604a8722281a26cc036,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,600a97750a20c621b3d6d358,green,color_judgment,78960,True,1770116731153.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 78955}]",green
+60147f790be39349d775e4f2,1.0,24331.0,Strongly Disagree,0.0,completed,1770117496513,1770116636256,3.0,29392.0,27871.0,color_images/gpt-4o/image_priors/fox_2_52cadfa8_resized_orange/FG_030_seq.png,3.0,0.0-0.0,first,False,fox,True,30.0,profile_13_first,8,[0],70,4.0,white,9841.0,1.0,16054.0,6981d5fdddcfd8fb586aaed4,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,60147f790be39349d775e4f2,orange,introspection,9862,True,1770116666258.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 9839}]",orange
+603b9be389c6cf7d0dd74fd1,1.0,11489.39999961853,Strongly Disagree,0.0,completed,1770117447262,1770116736595,10.0,17450.199999809265,16069.5,color_images/gpt-4o/image_priors/fox_2_52cadfa8_resized_orange/FG_030_seq.png,8.0,0.0-0.0,first,False,fox,True,30.0,profile_13_first,8,[0],38,4.0,white,11421.0,1.0,8839.400000095367,6981d62587b7f78479a44b11,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,603b9be389c6cf7d0dd74fd1,orange,introspection,11447,True,1770116766608.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 11421}]",orange
+6049c5cfcc0d1af3e5118965,2.0,8959.0,Strongly Disagree,0.0,completed,1770117348263,1770116712661,8.0,22546.000000000007,17759.0,shapes/shape_colored/square_v2_pink/FG_030_seq.png,7.0,0.0-0.0,first,False,square,True,30.0,profile_1_first,22,[0],70,4.0,pink,14225.0,1.0,18743.0,6981d61113933756f44f84fd,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,6049c5cfcc0d1af3e5118965,pink,introspection,14232,True,1770116742662.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 14222}]",pink
+604db6324496c57afe822770,1.0,7644.199999988079,Strongly Disagree,0.0,completed,1770476056092,1770475102273,7.0,17295.79999998212,12478.0,shapes/shape_colored/hexagon_v2_blue/BG_020_seq.png,10.0,0.0-0.0,last,False,hexagon,True,20.0,profile_18_last,20,[0],{'Q0': 4},4.0,white,8493.0,1.0,13248.5,69874e0e847986b0180abbf3,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6980c852b1ec006643f6873c,main,604db6324496c57afe822770,white,color_judgment,8519,True,1770475132280.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 8492}]",blue
+60524a9ece19f6b376473cf7,1.0,12194.0,Strongly Disagree,0.0,completed,1770475826668,1770475144915,10.0,18286.000000000015,17183.0,shapes/shape_colored/hexagon_v0_yellow/FG_020_seq.png,10.0,0.0-0.0,first,False,hexagon,True,20.0,profile_17_first,25,[0],74,4.0,white,4842.0,1.0,10624.0,69874e735b943ff2c1a77e26,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6980c852b1ec006643f6873c,main,60524a9ece19f6b376473cf7,yellow,introspection,4849,True,1770475174916.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 4841}]",yellow
+6053e01a6a8e8516ba7d47a7,1.0,,Strongly Disagree,1.0,completed,1769605879714,1769604911837,7.0,,,color_images/gpt-4o/counterfact/tuba_2_35148fb8_resized_red/FG_030_seq.png,7.0,0.0-0.0,first,False,tuba,True,30.0,profile_3_first,60,[0],62,4.0,red,17185.0,1.0,,697a06eb5859dfe8c706bfa3,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,prolific_test,6053e01a6a8e8516ba7d47a7,red,introspection,17267,True,1769604941845.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 17184}]",red
+6060fb525f262e237d167361,4.0,6899.399999976158,Strongly Disagree,0.0,completed,1770117552210,1770116703887,8.0,24072.600000023842,9846.799999952316,color_images/gpt-4o/image_priors/bat_(animal)_2_c58feb12_resized_brown/FG_060_seq.png,9.0,0.0-0.0,first,False,bat,True,60.0,profile_7_first,68,[0],99,4.0,brown,8986.0,1.0,22494.299999952316,6981d64eeec35aa66df365b9,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,6060fb525f262e237d167361,brown,introspection,9001,True,1770116733890.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 8986}]",brown
+60673bc6496cefa66a61e737,1.0,11666.29999999702,Strongly Disagree,2.0,failed_distractor,1770118691448,1770117341568,10.0,14840.09999999404,13920.29999999702,color_images/gpt-4o/image_priors/sleigh_1_62feb148_resized_red/FG_050_seq.png,3.0,0.0-0.0,first,False,sleigh,True,50.0,profile_23_first,30,[0],76,4.0,red,5929.0,1.0,9896.20000000298,6981d6281324168f47302a6b,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,60673bc6496cefa66a61e737,red,introspection,5938,True,1770117371571.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 5926}]",red
+606cf604adbb6982bb382881,1.0,3829.4000000059605,Strongly Disagree,0.0,completed,1770118095224,1770117227705,,20099.20000000298,11244.70000000298,color_images/gpt-4o/counterfact/jaguar_4_a2624ff9_resized_blue/FG_100_seq.png,10.0,0.0-0.0,last,False,jaguar,True,100.0,profile_11_last,5,[0],{'Q0': 4},4.0,blue,319586.0,1.0,,6981d721a80980f6f1d4d39b,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,main,606cf604adbb6982bb382881,blue,color_judgment,319641,True,1770117257724.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 319586}]",blue
+607668ac450fc6e3025a131d,1.0,13802.100000023842,Strongly Disagree,0.0,completed,1770478705922,1770477198757,9.0,28355.100000023842,27371.80000001192,color_images/gpt-4o/image_priors/great_white_shark_4_c223edfe_resized_grey/FG_000_seq.png,9.0,0.0-0.0,first,False,great white shark,True,0.0,profile_14_first,58,[0],65,4.0,white,17957.0,1.0,7384.699999988079,698756778991e050cab5c4a9,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6980c852b1ec006643f6873c,main,607668ac450fc6e3025a131d,white,introspection,17979,True,1770477228759.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 17957}]",grey
+60969c66dda8dbf36ea21d16,1.0,9092.000000000004,Strongly Disagree,0.0,completed,1770117345571,1770116674860,10.0,22828.0,21328.0,shapes/shape_colored/square_v2_pink/FG_030_seq.png,5.0,0.0-0.0,last,False,square,True,30.0,profile_1_last,23,[0],{'Q0': 4},4.0,pink,17726.0,1.0,6754.0,6981d624a05195a53f6bba9e,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,60969c66dda8dbf36ea21d16,pink,color_judgment,17736,True,1770116704861.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 17725}]",pink
+609d81679bcff493c7d143de,1.0,21973.79999999702,Strongly Disagree,0.0,completed,1770117952215,1770116807149,8.0,36817.79999999702,32737.5,shapes/shape_colored/triangle_v4_blue/FG_080_seq.png,9.0,0.0-0.0,last,False,triangle,True,80.0,profile_34_last,55,[0],{'Q0': 4},4.0,blue,11243.0,1.0,11078.59999999404,6981d6a9f2f02a30fc5fdc40,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,609d81679bcff493c7d143de,blue,color_judgment,11259,True,1770116837151.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 11243}]",blue
+60dcbb9b52603d2081d2ecac,1.0,7165.0,Strongly Disagree,0.0,completed,1770118027942,1770117197363,10.0,18366.0,16319.0,shapes/shape_colored/hexagon_v2_blue/BG_020_seq.png,10.0,0.0-0.0,first,False,hexagon,True,20.0,profile_18_first,18,[0],60,4.0,white,21741.0,1.0,5273.0,6981d8211113cdf5f96f2360,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,60dcbb9b52603d2081d2ecac,white,introspection,21745,True,1770117227362.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 21738}]",blue
+60e0ec3dd9c51beb8edd7445,1.0,3930.0999999940395,Strongly Disagree,0.0,completed,1770119309179,1770117560212,10.0,26265.0,10176.90000000596,shapes/shape_colored/triangle_v4_blue/FG_080_seq.png,10.0,0.0-0.0,first,False,triangle,True,80.0,profile_34_first,54,[0],51,4.0,blue,38947.0,1.0,6306.70000000298,6981d9752d8cefb25ca6aa93,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,60e0ec3dd9c51beb8edd7445,blue,introspection,38959,True,1770117590222.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 38947}]",blue
+60eb397be9b7668b4eb18a07,1.0,9309.299999999988,Strongly Disagree,0.0,completed,1770118498308,1770116976009,9.0,19465.099999999977,13871.299999999988,shapes/shape_colored/circle_v1_yellow/FG_060_seq.png,8.0,0.0-0.0,last,False,circle,True,60.0,profile_30_last,47,[0],{'Q0': 4},4.0,yellow,19063.0,1.0,13824.099999999977,6981d7324e23a18bd8b8e617,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,60eb397be9b7668b4eb18a07,yellow,color_judgment,19071,True,1770117006010.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 19063}]",yellow
+60f5df9db9380d875c320307,1.0,11863.39999999851,Strongly Disagree,0.0,completed,1770117407297,1770116642927,8.0,17460.20000000298,15712.10000000149,shapes/shape_colored/pentagon_v4_purple/FG_060_seq.png,9.0,0.0-0.0,first,False,pentagon,True,60.0,profile_26_first,36,[0],8,4.0,purple,2630.0,1.0,7345.10000000149,6981d60f26f9453bbb7f5ff5,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,60f5df9db9380d875c320307,purple,introspection,2673,True,1770116672929.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 2630}]",purple
+60fd1f3510ad12e40aa95564,1.0,4834.0,Strongly Disagree,0.0,completed,1770118290842,1770117409126,8.0,11643.89999999106,8726.29999999702,color_images/gpt-4o/image_priors/sleigh_1_62feb148_resized_red/FG_050_seq.png,10.0,0.0-0.0,last,False,sleigh,True,50.0,profile_23_last,31,[0],{'Q0': 4},4.0,red,2761.0,1.0,8525.0,6981d90f55d2068c5d56e7a6,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,60fd1f3510ad12e40aa95564,red,color_judgment,2777,True,1770117439130.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 2760}]",red
+60fddfafefa723957aa5a45b,1.0,3679.0,Strongly Disagree,1.0,completed,1770117724549,1770117065493,7.0,10227.099999904633,9478.700000047684,shapes/shape_colored/pentagon_v4_purple/FG_060_seq.png,9.0,0.0-0.0,first,False,pentagon,True,60.0,profile_26_first,36,[0],5,4.0,purple,9656.0,1.0,7095.5,6981d6a69242134ab0e3a207,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,60fddfafefa723957aa5a45b,purple,introspection,9674,True,1770117095495.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 9655}]",purple
+610772789d0d3082cb3274c6,2.0,3935.0,Strongly Disagree,1.0,completed,1770117064017,1770116627695,7.0,14185.0,12833.0,shapes/shape_colored/pentagon_v4_blue/FG_050_seq.png,5.0,0.0-0.0,last,False,pentagon,True,50.0,profile_32_last,51,[0],{'Q0': 4},4.0,white,10588.0,1.0,13721.0,6981d5ffa5e3a2f9c98d519c,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,610772789d0d3082cb3274c6,blue,color_judgment,10588,True,1770116657706.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 10588}]",blue
+6110888158573651261c3100,1.0,8187.299999952316,Strongly Disagree,0.0,completed,1770117782718,1770116689378,9.0,16941.0,15172.199999809265,color_images/gpt-4o/image_priors/ant_4_96b67bf0_resized_red/FG_080_seq.png,10.0,0.0-0.0,last,False,ant,True,80.0,profile_10_last,3,[0],{'Q0': 4},4.0,red,31630.0,1.0,9936.200000047684,6981d61d1d0cefd104ac7297,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,6110888158573651261c3100,red,color_judgment,31705,True,1770116719392.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 31629}]",red
+612550d21d30a44cb0d2d579,1.0,23816.200000000186,Strongly Disagree,0.0,completed,1770117419379,1770116709311,9.0,62894.90000000037,26767.400000000373,shapes/shape_colored/circle_v1_red/FG_050_seq.png,2.0,0.0-0.0,first,False,circle,True,50.0,profile_22_first,28,[0],90,4.0,red,92510.0,1.0,7620.5,6981d5f9e08c75f93ad23332,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,612550d21d30a44cb0d2d579,red,introspection,92523,True,1770116739312.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 92510}]",red
+6146548679f86b7cb069e7f7,1.0,,Strongly Disagree,,completed,1769605676363,1769604826317,10.0,,,color_images/gpt-4o/counterfact/jaguar_4_a2624ff9_resized_blue/FG_100_seq.png,10.0,0.0-0.0,last,False,jaguar,True,100.0,profile_11_last,5,[0],{'Q0': 4},4.0,blue,17468.0,1.0,,697a06b93135ed38b5ccd787,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,prolific_test,6146548679f86b7cb069e7f7,blue,color_judgment,17512,True,1769604856319.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 17467}]",blue
+614e5092e08a3a2d3204ffd2,1.0,5220.0,Strongly Disagree,1.0,completed,1770117561214,1770116647276,10.0,9019.0,8067.0,color_images/gpt-4o/image_priors/ant_4_96b67bf0_resized_red/FG_080_seq.png,10.0,0.0-0.0,first,False,ant,True,80.0,profile_10_first,2,[0],51,4.0,red,3047.0,1.0,6123.0,6981d60fb9f960c9f09877b2,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,614e5092e08a3a2d3204ffd2,red,introspection,3060,True,1770116677277.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 3046}]",red
+61517db6a7589569521b2356,1.0,,Strongly Disagree,,failed_attention,1769606665652,1769605461409,10.0,,,shapes/shape_colored/circle_v1_green/FG_060_seq.png,10.0,0.0-0.0,first,False,circle,True,60.0,profile_35_first,56,[0],83,4.0,green,28624.0,1.0,,697a08cb0df17a25075e0e53,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,prolific_test,61517db6a7589569521b2356,green,introspection,28631,True,1769605491410.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 28623}]",green
+615d2de8bfd11d57af47423a,1.0,4470.600000023842,Strongly Disagree,0.0,completed,1770117541636,1770116748607,,13087.199999988079,10387.100000023842,shapes/shape_colored/pentagon_v4_purple/FG_060_seq.png,10.0,0.0-0.0,last,False,pentagon,True,60.0,profile_26_last,37,[0],{'Q0': 4},4.0,purple,28446.0,1.0,,6981d65a2d7536a926f1ad3f,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,615d2de8bfd11d57af47423a,purple,color_judgment,28462,True,1770116778621.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 28446}]",purple
+61705235c277934df17055e6,1.0,13540.5,Strongly Disagree,0.0,completed,1770475706358,1770475057513,10.0,20995.599999999627,19330.699999999255,shapes/shape_colored/triangle_v3_yellow/BG_060_seq.png,10.0,0.0-0.0,first,False,triangle,True,60.0,profile_15_first,17,[0],25,4.0,white,27341.0,1.0,5358.800000000745,69874e081331e0aa91d80d8a,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6980c852b1ec006643f6873c,main,61705235c277934df17055e6,white,introspection,27554,True,1770475087517.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 27341}]",yellow
+62029bb4ef1cb18a1337c8a8,1.0,7163.700000047684,Strongly Disagree,0.0,completed,1770117709193,1770116852008,9.0,20170.0,19068.099999904633,shapes/shape_colored/pentagon_v0_pink/FG_005_seq.png,8.0,0.0-0.0,last,False,pentagon,True,5.0,profile_20_last,25,[0],{'Q0': 4},4.0,pink,28223.0,1.0,7540.100000143051,6981d6ad0102e477b4c6a0ae,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,62029bb4ef1cb18a1337c8a8,pink,color_judgment,28233,True,1770116882024.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 28223}]",pink
+6289f7ba725b22f93374725e,2.0,23821.59999999404,Strongly Disagree,0.0,completed,1770117485668,1770116685897,9.0,39744.39999997616,32676.09999999404,shapes/shape_colored/pentagon_v0_pink/FG_005_seq.png,8.0,0.0-0.0,last,False,pentagon,True,5.0,profile_20_last,25,[0],{'Q0': 4},4.0,white,13225.0,1.0,37138.59999999404,6981d626f7ae5d7e0ed0654c,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,6289f7ba725b22f93374725e,pink,color_judgment,13228,True,1770116715901.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 13224}]",pink
+629f2dccc6e91be06559e2f1,1.0,7009.800000011921,Strongly Disagree,0.0,completed,1770117667764,1770117161752,10.0,12192.699999988079,11592.0,color_images/gpt-4o/image_priors/Old_English_sheepdog_4_51cd66d5_resized_grey/FG_040_seq.png,7.0,0.0-0.0,last,False,old english sheepdog,True,40.0,profile_6_last,67,[0],{'Q0': 4},4.0,grey,1533.0,1.0,5284.400000035763,6981d81b212a11988e9a077f,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,629f2dccc6e91be06559e2f1,grey,color_judgment,1541,True,1770117191753.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 1532}]",grey
+62ac706d8544dbe5a81b4212,1.0,4659.0,Strongly Disagree,0.0,completed,1770475928338,1770475190675,7.0,10810.699999928474,9448.899999976158,shapes/shape_colored/square_v1_blue/FG_020_seq.png,10.0,0.0-0.0,first,False,square,True,20.0,profile_36_first,33,[0],90,4.0,white,17486.0,1.0,5745.5,69874e956e27791bf58b47ec,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6980c852b1ec006643f6873c,main,62ac706d8544dbe5a81b4212,blue,introspection,17494,True,1770475220676.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 17486}]",blue
+62ac71cec3309a48781684eb,1.0,8465.799999999814,Strongly Disagree,0.0,completed,1770117265108,1770116787886,10.0,14009.5,12853.5,shapes/shape_colored/pentagon_v0_pink/FG_005_seq.png,10.0,0.0-0.0,last,False,pentagon,True,5.0,profile_20_last,25,[0],{'Q0': 4},4.0,pink,5740.0,1.0,4167.200000000186,6981d6a217d336743f23b1f6,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,62ac71cec3309a48781684eb,pink,color_judgment,5772,True,1770116817904.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 5739}]",pink
+62c4590804317dc197ecbe8a,1.0,,Strongly Disagree,,completed,1769607885316,1769607046363,8.0,,,shapes/shape_colored/triangle_v4_blue/FG_080_seq.png,8.0,0.0-0.0,last,False,triangle,True,80.0,profile_34_last,55,[0],{'Q0': 4},4.0,blue,30602.0,1.0,,697a0f307064021d6f31ccc6,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,prolific_test,62c4590804317dc197ecbe8a,blue,color_judgment,30612,True,1769607076364.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 30602}]",blue
+62cbfe7dd820cc9d2cd7c87a,2.0,9436.0,Strongly Disagree,1.0,completed,1770117356833,1770116644317,6.0,18068.0,17001.0,color_images/gpt-4o/image_priors/beets_2_c2d2422e_resized_red/FG_020_seq.png,6.0,0.0-0.0,last,False,beets,True,20.0,profile_2_last,45,[0],{'Q0': 4},4.0,red,3969.0,1.0,17583.0,6981d611f806c4b23ded6965,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,62cbfe7dd820cc9d2cd7c87a,red,color_judgment,3978,True,1770116674318.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 3968}]",red
+62d133496cf7f774b8bf98a0,1.0,8672.100000000559,Strongly Disagree,0.0,completed,1770117885044,1770116816346,8.0,15001.100000000559,13499.400000000373,shapes/shape_colored/square_v2_pink/FG_030_seq.png,1.0,0.0-0.0,first,False,square,True,30.0,profile_1_first,22,[0],25,4.0,pink,103108.0,1.0,6388.799999999814,6981d642b94644a975643260,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,62d133496cf7f774b8bf98a0,pink,introspection,103133,True,1770116846355.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 103107}]",pink
+62d6d77df59450e545fb22f6,2.0,19754.0,Strongly Disagree,0.0,completed,1770118319015,1770117178500,9.0,37721.09999990463,27236.799999713898,shapes/shape_colored/circle_v1_yellow/FG_060_seq.png,10.0,0.0-0.0,last,False,circle,True,60.0,profile_30_last,47,[0],{'Q0': 4},4.0,yellow,29847.0,1.0,36773.89999961853,6981d71f1b107a750d3284fb,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,62d6d77df59450e545fb22f6,yellow,color_judgment,29871,True,1770117208501.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 29846}]",yellow
+62e29557ed1b3a918b95cb30,2.0,12133.0,Strongly Disagree,0.0,completed,1770117294181,1770116642802,6.0,19886.0,17126.0,color_images/gpt-4o/image_priors/sleigh_1_62feb148_resized_red/FG_050_seq.png,7.0,0.0-0.0,first,False,sleigh,True,50.0,profile_23_first,30,[0],30,4.0,red,13332.0,1.0,18943.0,6981d60658a084684468afcd,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,62e29557ed1b3a918b95cb30,red,introspection,13335,True,1770116672810.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 13332}]",red
+62ed458d61ebd1930833e95a,1.0,6504.29999999702,Strongly Disagree,1.0,completed,1770117521110,1770116759192,1.0,14229.59999999404,12609.20000000298,color_images/gpt-4o/counterfact/rose_3_64713026_resized_blue/FG_100_seq.png,10.0,0.0-0.0,first,False,rose,True,100.0,profile_28_first,40,[0],70,4.0,blue,20003.0,1.0,14124.40000000596,6981d65b21fd09fe2a5415a4,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,main,62ed458d61ebd1930833e95a,blue,introspection,20010,True,1770116789205.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 20003}]",blue
+62fb8e94ce94179d6a4e8277,1.0,5515.699999999953,Strongly Disagree,1.0,completed,1770117363128,1770116701170,8.0,10589.29999999993,9598.29999999993,color_images/gpt-4o/image_priors/fox_2_52cadfa8_resized_orange/FG_030_seq.png,7.0,0.0-0.0,last,False,fox,True,30.0,profile_13_last,9,[0],{'Q0': 4},4.0,white,8994.0,1.0,5124.90000000014,6981d62206e335a76542ed9f,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,62fb8e94ce94179d6a4e8277,orange,color_judgment,9014,True,1770116731184.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 8994}]",orange
+63076cd447ae6e2366804685,1.0,2963.7999999523163,Strongly Disagree,1.0,completed,1770117568439,1770116690258,2.0,13897.399999976158,9764.299999952316,color_images/gpt-4o/counterfact/rose_3_64713026_resized_blue/FG_100_seq.png,10.0,0.0-0.0,first,False,rose,True,100.0,profile_28_first,40,[0],60,4.0,blue,14198.0,1.0,15431.600000023842,6981d636dceb7b26b7720f68,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,main,63076cd447ae6e2366804685,blue,introspection,14213,True,1770116720259.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 14198}]",blue
+6346921046fa377ce55acbc1,1.0,6295.899999856949,Strongly Disagree,0.0,completed,1770117154094,1770116660941,10.0,11222.699999809265,8431.5,shapes/shape_colored/circle_v1_red/FG_050_seq.png,5.0,0.0-0.0,first,False,circle,True,50.0,profile_22_first,28,[0],75,4.0,white,26964.0,1.0,4125.900000095367,6981d60b45e64c7199d8902d,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,6346921046fa377ce55acbc1,red,introspection,26976,True,1770116690955.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 26964}]",red
+637e4351f6c7592941500be6,1.0,2945.0,Strongly Disagree,1.0,completed,1770117884071,1770116639909,10.0,8755.0,7754.0,shapes/shape_colored/square_v3_green/FG_100_seq.png,10.0,0.0-0.0,first,False,square,True,100.0,profile_25_first,34,[0],51,4.0,green,2665.0,1.0,5218.0,6981d60dcd6f03a2122020fe,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,637e4351f6c7592941500be6,green,introspection,2674,True,1770116669910.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 2665}]",green
+63d18d8eafb7fb418594761a,2.0,5153.0,Strongly Disagree,0.0,completed,1770117397835,1770116648717,9.0,10762.000000000004,7661.0,shapes/shape_colored/pentagon_v1_pink/FG_090_seq.png,10.0,0.0-0.0,last,False,pentagon,True,90.0,profile_24_last,33,[0],{'Q0': 4},4.0,pink,12848.0,1.0,8910.0,6981d60b3b2c037798553399,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,63d18d8eafb7fb418594761a,pink,color_judgment,12857,True,1770116678718.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 12848}]",pink
+63d7bea144b8a11f63c2a763,1.0,3523.0,Strongly Disagree,0.0,completed,1770117382489,1770116857626,,11854.800000011921,9821.300000011921,color_images/gpt-4o/image_priors/ant_4_96b67bf0_resized_red/FG_080_seq.png,10.0,0.0-0.0,last,False,ant,True,80.0,profile_10_last,3,[0],{'Q0': 4},4.0,red,10131.0,1.0,,6981d62ef095a13290f3f893,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,63d7bea144b8a11f63c2a763,red,color_judgment,10170,True,1770116887627.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 10131}]",red
+63e6378e04ade071ebf9ff9c,1.0,9760.5,Strongly Disagree,0.0,completed,1770118528712,1770116730777,,14751.0,12966.600000023842,shapes/shape_colored/pentagon_v2_red/FG_030_seq.png,6.0,0.0-0.0,first,False,pentagon,True,30.0,profile_33_first,52,[0],50,4.0,red,56938.0,1.0,,6981d62a01ded2cfd8eadcdb,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,63e6378e04ade071ebf9ff9c,red,introspection,56946,True,1770116760790.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 56938}]",red
+63f77a5dde1ea03305e119e0,1.0,3394.199999999255,Strongly Disagree,1.0,completed,1770117429885,1770116750835,6.0,8878.39999999851,6045.0,shapes/shape_colored/square_v2_red/FG_055_seq.png,9.0,0.0-0.0,last,False,square,True,55.0,profile_19_last,21,[0],{'Q0': 4},4.0,red,16599.0,1.0,4380.699999999255,6981d63628fa0c312010c4f0,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,63f77a5dde1ea03305e119e0,red,color_judgment,16611,True,1770116780837.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 16599}]",red
+64142c7e4b3677e0550fdee9,1.0,6046.199999928474,Strongly Disagree,0.0,completed,1770117840203,1770116702620,9.0,11112.299999952316,10119.5,color_images/gpt-4o/image_priors/bat_(animal)_2_c58feb12_resized_brown/FG_060_seq.png,9.0,0.0-0.0,first,False,bat,True,60.0,profile_7_first,68,[0],55,4.0,brown,22017.0,1.0,9702.800000071526,6981d6374e9ce91de7c544e4,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,64142c7e4b3677e0550fdee9,brown,introspection,22046,True,1770116732630.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 22017}]",brown
+6447ec9bd0b1acd0e7e77789,1.0,1678.9000000953674,Strongly Disagree,0.0,completed,1770117239631,1770116801933,9.0,5318.200000047684,4070.2000000476837,color_images/gpt-4o/counterfact/jaguar_4_a2624ff9_resized_blue/FG_100_seq.png,10.0,0.0-0.0,last,False,jaguar,True,100.0,profile_11_last,5,[0],{'Q0': 4},4.0,blue,16159.0,1.0,4518.800000190735,6981d6ab73e61e148766dc99,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,main,6447ec9bd0b1acd0e7e77789,blue,color_judgment,16178,True,1770116831943.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 16159}]",blue
+646346fe4c7507b84b11a28a,1.0,10588.0,Strongly Disagree,0.0,completed,1770118187812,1770117066654,10.0,18076.0,16572.0,shapes/shape_colored/square_v3_green/FG_100_seq.png,10.0,0.0-0.0,first,False,square,True,100.0,profile_25_first,34,[0],51,4.0,green,30383.0,1.0,22445.0,6981d64fa283ed4f608bfae6,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,646346fe4c7507b84b11a28a,green,introspection,31775,True,1770117096702.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 30383}]",green
+64a9858be9b52e570ffb3c1e,1.0,11287.0,Strongly Disagree,0.0,completed,1770118776514,1770118266638,9.0,14445.0,13334.0,shapes/shape_colored/hexagon_v1_pink/FG_040_seq.png,9.0,0.0-0.0,first,False,hexagon,True,40.0,profile_4_first,62,[0],100,4.0,pink,1389947.0,1.0,12138.0,6981d6a81a7d66d47011717d,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,64a9858be9b52e570ffb3c1e,pink,introspection,1389949,True,1770118296648.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 1389947}]",pink
+651ac88823e71c05dbc1ff63,1.0,7897.899999856949,Strongly Disagree,0.0,completed,1770118148253,1770117610972,9.0,12508.099999904633,11544.099999904633,shapes/shape_colored/triangle_v2_red/BG_080_seq.png,10.0,0.0-0.0,last,False,triangle,True,80.0,profile_16_last,15,[0],{'Q0': 4},4.0,white,2145.0,1.0,7092.599999904633,6981d6129a51875c1a57ca3d,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,651ac88823e71c05dbc1ff63,white,color_judgment,2173,True,1770117640978.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 2145}]",red
+6550e13c57984ee9fc84544a,1.0,2009.999999999999,Strongly Disagree,0.0,completed,1770117240763,1770116729070,6.0,3754.000000000001,2994.999999999999,shapes/shape_colored/hexagon_v0_yellow/FG_020_seq.png,7.0,0.0-0.0,last,False,hexagon,True,20.0,profile_17_last,17,[0],{'Q0': 4},4.0,white,1421.0,1.0,4393.0,6981d60e1f8ac738d6cc35bc,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,6550e13c57984ee9fc84544a,yellow,color_judgment,1430,True,1770116759071.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 1416}]",yellow
+65bfa2967c731d263eb29732,1.0,3572.600000000559,Strongly Disagree,1.0,completed,1770117400895,1770116863556,4.0,5931.700000000186,5287.9000000003725,shapes/shape_colored/pentagon_v0_pink/FG_005_seq.png,10.0,0.0-0.0,first,False,pentagon,True,5.0,profile_20_first,24,[0],60,4.0,pink,7190.0,1.0,7404.200000000186,6981d5f5a4753f62f233c645,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,65bfa2967c731d263eb29732,pink,introspection,7197,True,1770116893567.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 7190}]",pink
+660ea65b18972d0e6a14a896,1.0,20213.0,Strongly Disagree,0.0,completed,1770117766621,1770116715296,9.0,38149.0,37248.0,shapes/shape_colored/circle_v1_green/FG_060_seq.png,10.0,0.0-0.0,last,False,circle,True,60.0,profile_35_last,57,[0],{'Q0': 4},4.0,green,25218.0,1.0,8248.999999999942,6981d62943a05277fbf615f2,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,660ea65b18972d0e6a14a896,green,color_judgment,25226,True,1770116745298.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 25218}]",green
+66200b032829f40f3664afdf,1.0,6559.400000095367,Strongly Disagree,0.0,completed,1770117662001,1770116940610,10.0,13076.900000095367,11878.799999952316,shapes/shape_colored/square_v2_red/FG_055_seq.png,10.0,0.0-0.0,last,False,square,True,55.0,profile_19_last,21,[0],{'Q0': 4},4.0,red,13945.0,1.0,5741.599999904633,6981d6b14a9771c3ec67eeb6,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,66200b032829f40f3664afdf,red,color_judgment,13979,True,1770116970612.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 13942}]",red
+66226bd11f2b643b643e80aa,1.0,4332.200000047684,Strongly Disagree,0.0,completed,1770117519684,1770116949444,10.0,8237.099999904633,7076.299999952316,color_images/gpt-4o/image_priors/ant_4_96b67bf0_resized_red/FG_080_seq.png,9.0,0.0-0.0,last,False,ant,True,80.0,profile_10_last,3,[0],{'Q0': 4},4.0,red,7982.0,1.0,4157.400000095367,6981d73f525f6a4aca52e483,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,66226bd11f2b643b643e80aa,red,color_judgment,7991,True,1770116979449.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 7981}]",red
+6629396552374517c5c62d8f,1.0,2689.899999976158,Strongly Disagree,0.0,completed,1770117941724,1770117201959,8.0,6773.799999952316,5740.100000023842,color_images/gpt-4o/image_priors/crab_1_3143c135_resized_red/BG_060_seq.png,10.0,0.0-0.0,first,False,crab,True,60.0,profile_12_first,6,[0],47,4.0,white,408950.0,1.0,3346.6999999284744,6981d6a7e95caed1d9f9f186,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,6629396552374517c5c62d8f,white,introspection,408972,True,1770117231966.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 408949}]",red
+663d8f0edfd87b4c1f590b99,1.0,3634.5,Strongly Disagree,0.0,completed,1770117322165,1770116732725,7.0,7208.5,5974.600000143051,shapes/shape_colored/square_v3_green/FG_100_seq.png,10.0,0.0-0.0,first,False,square,True,100.0,profile_25_first,34,[0],70,4.0,green,43808.0,1.0,5630.799999952316,6981d6073b2aadadd0979894,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,663d8f0edfd87b4c1f590b99,green,introspection,43815,True,1770116762728.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 43808}]",green
+66472a03650f9441b8f815d9,1.0,9550.0,Strongly Disagree,0.0,completed,1770117890513,1770117396308,6.0,12612.0,11752.0,color_images/gpt-4o/image_priors/Old_English_sheepdog_4_51cd66d5_resized_grey/FG_040_seq.png,6.0,0.0-0.0,last,False,old english sheepdog,True,40.0,profile_6_last,67,[0],{'Q0': 4},4.0,grey,2910.0,1.0,3022.2999999970198,6981d90711676f183c02b0ac,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,66472a03650f9441b8f815d9,grey,color_judgment,2924,True,1770117426307.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 2909}]",grey
+6658b14931847f8a05c3d266,1.0,3952.0,Strongly Disagree,0.0,completed,1770120554119,1770116778313,6.0,9329.0,8050.0,shapes/shape_colored/circle_v2_green/FG_100_seq.png,10.0,0.0-0.0,last,False,circle,True,100.0,profile_21_last,27,[0],{'Q0': 4},4.0,green,12888.0,1.0,9197.000000000007,6981d693bd4839695c497912,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,6658b14931847f8a05c3d266,green,color_judgment,12897,True,1770116808314.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 12887}]",green
+6658b181c00bf8747d5c793b,1.0,7540.0,Strongly Disagree,0.0,completed,1770117583956,1770116673853,,14447.300000190735,12418.100000143051,shapes/shape_colored/pentagon_v0_pink/FG_005_seq.png,10.0,0.0-0.0,last,False,pentagon,True,5.0,profile_20_last,25,[0],{'Q0': 4},4.0,pink,14575.0,1.0,,6981d6169a1e31cc23bed8e9,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,6658b181c00bf8747d5c793b,pink,color_judgment,14595,True,1770116703862.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 14574}]",pink
+6658b32dd8c3da854c842802,1.0,2220.7000000476837,Strongly Disagree,1.0,completed,1770117216893,1770116783947,8.0,5592.600000023842,4874.5,color_images/gpt-4o/image_priors/great_white_shark_4_c223edfe_resized_grey/FG_000_seq.png,8.0,0.0-0.0,last,True,great white shark,True,0.0,profile_14_last,11,[0],0,4.0,blue,5467.0,1.0,2517.300000011921,6981d69725d74e9ffb569f40,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,6658b32dd8c3da854c842802,white,color_judgment,5477,True,1770116813953.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 5467}]",grey
+665a2ec0103f8c77303c4a83,1.0,6161.100000023842,Strongly Disagree,0.0,completed,1770117293369,1770116704224,10.0,17175.600000023842,14831.600000023842,color_images/gpt-4o/image_priors/sleigh_1_62feb148_resized_red/FG_050_seq.png,10.0,0.0-0.0,last,False,sleigh,True,50.0,profile_23_last,31,[0],{'Q0': 4},4.0,red,16864.0,1.0,8165.5,6981d640c357ea26f627bd77,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,665a2ec0103f8c77303c4a83,red,color_judgment,16875,True,1770116734226.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 16864}]",red
+665acacd6f53305291fbd38e,1.0,6329.20000000298,Strongly Disagree,0.0,completed,1770117574218,1770116767779,8.0,13259.5,11838.5,shapes/shape_colored/circle_v1_yellow/FG_060_seq.png,7.0,0.0-0.0,first,False,circle,True,60.0,profile_30_first,46,[0],51,4.0,yellow,10490.0,1.0,7427.29999999702,6981d62b4589f1277235a791,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,665acacd6f53305291fbd38e,yellow,introspection,10551,True,1770116797787.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 10490}]",yellow
+665ae4a2c2815b2a78502f1e,2.0,5288.5,Strongly Disagree,0.0,completed,1770117319998,1770116786113,7.0,9837.30000000028,8193.400000000373,shapes/shape_colored/hexagon_v4_orange/FG_020_seq.png,6.0,0.0-0.0,first,False,hexagon,True,20.0,profile_5_first,64,[0],70,4.0,white,10894.0,1.0,9219.5,6981d69a4589f1277235a7b8,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,665ae4a2c2815b2a78502f1e,orange,introspection,10909,True,1770116816115.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 10894}]",orange
+665ee374604d2c5d4d858efd,1.0,10115.0,Strongly Disagree,1.0,completed,1770476261089,1770475460953,9.0,16399.00000000003,15465.0,shapes/shape_colored/pentagon_v4_blue/FG_050_seq.png,6.0,0.0-0.0,first,False,pentagon,True,50.0,profile_32_first,45,[0],95,4.0,white,8443.0,1.0,3729.0,69874f4690430060cf8fb9ff,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6980c852b1ec006643f6873c,main,665ee374604d2c5d4d858efd,blue,introspection,8453,True,1770475490955.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 8443}]",blue
+6665aacb7549bd73950c9e6b,1.0,15856.5,Strongly Disagree,0.0,completed,1770118115954,1770116839931,,31473.0,30368.5,shapes/shape_colored/circle_v1_green/FG_060_seq.png,10.0,0.0-0.0,last,False,circle,True,60.0,profile_35_last,57,[0],{'Q0': 4},4.0,green,16640.0,1.0,,6981d6a99747a8b9452816ed,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,6665aacb7549bd73950c9e6b,green,color_judgment,16760,True,1770116869942.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 16640}]",green
+6667015e358c1fe41b8a3d7f,1.0,20760.5,Strongly Disagree,1.0,completed,1770118235925,1770116899330,7.0,32627.299999952316,28951.399999976158,color_images/gpt-4o/counterfact/tuba_2_35148fb8_resized_red/FG_030_seq.png,3.0,0.0-0.0,first,False,tuba,True,30.0,profile_3_first,60,[0],70,4.0,white,16473.0,1.0,12171.100000023842,6981d6aa3adde6e376ef7c37,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,main,6667015e358c1fe41b8a3d7f,red,introspection,16501,True,1770116929334.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 16472}]",red
+6670492b6bce0dc15d93dfac,1.0,3592.0,Strongly Disagree,0.0,completed,1770117229294,1770116667450,10.0,9659.0,8024.0,shapes/shape_colored/pentagon_v0_orange/FG_050_seq.png,10.0,0.0-0.0,last,False,pentagon,True,50.0,profile_31_last,49,[0],{'Q0': 4},4.0,orange,14494.0,1.0,7611.999999999985,6981d6153ad664808d5879ff,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,6670492b6bce0dc15d93dfac,orange,color_judgment,14504,True,1770116697451.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 14494}]",orange
+667c2662a541712f84139691,1.0,2861.0,Strongly Disagree,0.0,completed,1770117614739,1770116905160,9.0,7567.899999976158,5638.5,color_images/gpt-4o/counterfact/rose_3_64713026_resized_blue/FG_100_seq.png,10.0,0.0-0.0,first,False,rose,True,100.0,profile_28_first,40,[0],30,4.0,blue,14395.0,1.0,7440.100000023842,6981d69558db8e313e4526a2,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,main,667c2662a541712f84139691,blue,introspection,14441,True,1770116935170.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 14395}]",blue
+66c347304e6dd11def71183e,2.0,11550.900000002235,Strongly Disagree,0.0,completed,1770118521961,1770117493537,5.0,22572.400000002235,18588.400000002235,shapes/shape_colored/pentagon_v0_orange/FG_050_seq.png,6.0,0.0-0.0,first,False,pentagon,True,50.0,profile_31_first,48,[0],100,4.0,white,17171.0,1.0,21725.10000000149,6981d60cf7ae5d7e0ed06549,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,66c347304e6dd11def71183e,orange,introspection,17176,True,1770117523539.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 17171}]",orange
+66c9f7305f8a64d04cb5344c,1.0,4447.0,Strongly Disagree,0.0,completed,1770117406617,1770116931357,10.0,16161.0,15718.0,shapes/shape_colored/pentagon_v0_orange/FG_050_seq.png,8.0,0.0-0.0,first,False,pentagon,True,50.0,profile_31_first,48,[0],74,4.0,orange,17816.0,1.0,3006.0,6981d722f806c4b23ded6995,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,66c9f7305f8a64d04cb5344c,orange,introspection,17820,True,1770116961357.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 17815}]",orange
+66d045a6b838b2a1ff99653a,1.0,3514.7999999523163,Strongly Disagree,0.0,completed,1770117330881,1770116705165,8.0,9250.399999976158,8086.299999952316,color_images/gpt-4o/counterfact/jaguar_4_a2624ff9_resized_blue/FG_100_seq.png,10.0,0.0-0.0,last,False,jaguar,True,100.0,profile_11_last,5,[0],{'Q0': 4},4.0,blue,48132.0,1.0,8816.299999952316,6981d6099d40dc432f8e9d80,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,main,66d045a6b838b2a1ff99653a,blue,color_judgment,48140,True,1770116735167.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 48131}]",blue
+66e9bdb86f599f239c1ea24e,1.0,16323.599999999627,Strongly Disagree,0.0,completed,1770117942575,1770116879670,10.0,21657.099999999627,18469.700000000186,color_images/gpt-4o/image_priors/crab_1_3143c135_resized_red/BG_060_seq.png,10.0,0.0-0.0,first,False,crab,True,60.0,profile_12_first,6,[0],77,4.0,white,68326.0,1.0,15809.700000000186,6981d6beacf4f32769aff4b4,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,66e9bdb86f599f239c1ea24e,white,introspection,68372,True,1770116909682.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 68325}]",red
+66ef36768bc403140fa01e35,1.0,2420.2000000001863,Strongly Disagree,0.0,completed,1770117132928,1770116674175,7.0,6229.5,4844.0999999996275,color_images/gpt-4o/counterfact/rose_3_64713026_resized_blue/FG_100_seq.png,10.0,0.0-0.0,last,False,rose,True,100.0,profile_28_last,41,[0],{'Q0': 4},4.0,blue,12441.0,1.0,7682.899999999441,6981d625ceadebe4152caae1,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,main,66ef36768bc403140fa01e35,blue,color_judgment,12477,True,1770116704181.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 12440}]",blue
+66f69dcc061074dacb886b52,1.0,10668.09999999404,Strongly Disagree,0.0,completed,1770117230817,1770116753073,10.0,16670.70000000298,13036.20000000298,shapes/shape_colored/triangle_v4_blue/FG_080_seq.png,10.0,0.0-0.0,last,False,triangle,True,80.0,profile_34_last,55,[0],{'Q0': 4},4.0,blue,31989.0,1.0,7651.20000000298,6981d63c58db8e313e452697,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,66f69dcc061074dacb886b52,blue,color_judgment,31992,True,1770116783073.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 31988}]",blue
+66fc6008cda3d277a8978dbf,1.0,5429.4000000059605,Strongly Disagree,0.0,completed,1770117856232,1770116922812,7.0,11146.5,10021.09999999404,shapes/shape_colored/triangle_v2_red/BG_080_seq.png,10.0,0.0-0.0,last,False,triangle,True,80.0,profile_16_last,15,[0],{'Q0': 4},4.0,white,11727.0,1.0,11996.09999999404,6981d6a423ef1c7f21b38e55,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,66fc6008cda3d277a8978dbf,white,color_judgment,11733,True,1770116952816.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 11725}]",red
+67118c5934ddcc26346c3183,1.0,29071.899999976158,Strongly Disagree,0.0,completed,1770121755180,1770120603679,10.0,40480.89999997616,39642.69999998808,shapes/shape_colored/pentagon_v0_orange/FG_050_seq.png,8.0,0.0-0.0,first,False,pentagon,True,50.0,profile_31_first,48,[0],75,4.0,orange,4569.0,1.0,7003.899999976158,6981e56baa0857113cf09905,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,67118c5934ddcc26346c3183,orange,introspection,4614,True,1770120633692.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 4568}]",orange
+673f6ffebce20832346325de,1.0,4048.1999999284744,Strongly Disagree,1.0,completed,1770117349066,1770116793341,8.0,11231.399999976158,9765.0,color_images/gpt-4o/image_priors/bat_(animal)_2_c58feb12_resized_brown/FG_060_seq.png,10.0,0.0-0.0,first,False,bat,True,60.0,profile_7_first,68,[0],40,4.0,brown,7336.0,1.0,4147.699999928474,6981d6a3e2dccdf96c00749a,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,673f6ffebce20832346325de,brown,introspection,7368,True,1770116823343.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 7335}]",brown
+6745f46c86b3a0d19cd1d4b7,1.0,3419.9999999999927,Strongly Disagree,1.0,completed,1770117570611,1770116801113,10.0,8174.0,7171.999999999993,shapes/shape_colored/pentagon_v4_purple/FG_060_seq.png,10.0,0.0-0.0,last,False,pentagon,True,60.0,profile_26_last,37,[0],{'Q0': 4},4.0,purple,31272.0,1.0,9720.0,6981d6963a319f7fbdd24a3e,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,6745f46c86b3a0d19cd1d4b7,purple,color_judgment,31281,True,1770116831114.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 31271}]",purple
+6760560703124d0c4284abaf,1.0,4176.399999976158,Strongly Disagree,0.0,completed,1770117397773,1770116890898,10.0,12108.5,11064.800000011921,color_images/gpt-4o/image_priors/lettuce_1_3a765877_resized_green/FG_060_seq.png,7.0,0.0-0.0,last,False,lettuce,True,60.0,profile_0_last,1,[0],{'Q0': 4},4.0,green,1631.0,1.0,3931.699999988079,6981d747c8a0ff9221c9c947,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,6760560703124d0c4284abaf,green,color_judgment,1644,True,1770116920902.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 1631}]",green
+6760580745ecb73102f83f3d,1.0,5365.300000011921,Strongly Disagree,0.0,completed,1770117786278,1770117215910,9.0,10748.0,9465.0,color_images/gpt-4o/counterfact/jaguar_4_a2624ff9_resized_blue/FG_100_seq.png,10.0,0.0-0.0,first,False,jaguar,True,100.0,profile_11_first,4,[0],10,4.0,blue,19870.0,1.0,5299.400000035763,6981d6973d6a80410f6b5f48,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,main,6760580745ecb73102f83f3d,blue,introspection,19877,True,1770117245911.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 19869}]",blue
+676061b0d6e01e2e9548a4b9,1.0,,Strongly Disagree,,completed,1769605302694,1769604839827,7.0,,,color_images/gpt-4o/image_priors/sleigh_1_62feb148_resized_red/FG_050_seq.png,7.0,0.0-0.0,last,False,sleigh,True,50.0,profile_23_last,31,[0],{'Q0': 4},4.0,white,21763.0,1.0,,697a06b99bde3e3d7387065d,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,prolific_test,676061b0d6e01e2e9548a4b9,red,color_judgment,21774,True,1769604869827.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 21762}]",red
+676062b507205eb7b42c2a24,1.0,4502.699999999255,Strongly Disagree,0.0,completed,1770117663984,1770116704233,7.0,28612.199999999255,26907.699999999255,color_images/gpt-4o/image_priors/bat_(animal)_2_c58feb12_resized_brown/FG_060_seq.png,10.0,0.0-0.0,last,False,bat,True,60.0,profile_7_last,69,[0],{'Q0': 4},4.0,brown,19070.0,1.0,5822.300000000745,6981d6228274defc32569f2d,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,676062b507205eb7b42c2a24,brown,color_judgment,19094,True,1770116734241.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 19069}]",brown
+676063838d4db0d3eaa69c2b,1.0,,Strongly Disagree,,completed,1769606181795,1769605539794,10.0,,,color_images/gpt-4o/image_priors/fox_2_52cadfa8_resized_orange/FG_030_seq.png,10.0,0.0-0.0,last,False,fox,True,30.0,profile_13_last,9,[0],{'Q0': 4},4.0,orange,1414.0,1.0,,697a06be59d928e4cc8706c7,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,prolific_test,676063838d4db0d3eaa69c2b,orange,color_judgment,1420,True,1769605569795.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 1414}]",orange
+67680e24c4684ebbc6ec8af3,1.0,4872.300000011921,Strongly Disagree,1.0,completed,1770117274080,1770116824085,6.0,7866.600000023842,7109.900000035763,shapes/shape_colored/circle_v2_green/FG_100_seq.png,10.0,0.0-0.0,first,False,circle,True,100.0,profile_21_first,26,[0],70,4.0,green,13583.0,1.0,5434.300000011921,6981d64950ce7f7cd707d5c5,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,67680e24c4684ebbc6ec8af3,green,introspection,13592,True,1770116854094.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 13583}]",green
+6768815b73d3cbf6add75750,1.0,12351.899999999907,Strongly Disagree,0.0,completed,1770119464624,1770117197038,10.0,17803.19999999972,16617.69999999972,shapes/shape_colored/square_v2_red/FG_055_seq.png,9.0,0.0-0.0,first,False,square,True,55.0,profile_19_first,20,[0],40,4.0,red,110093.0,1.0,4514.399999999907,6981d634226ee9ec69831f37,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,6768815b73d3cbf6add75750,red,introspection,110172,True,1770117227052.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 110091}]",red
+67698abcc712969d4beef949,1.0,5016.600000000093,Strongly Disagree,0.0,completed,1770119594742,1770117321932,9.0,9047.0,8382.5,shapes/shape_colored/triangle_v2_pink/FG_080_seq.png,10.0,0.0-0.0,first,False,triangle,True,80.0,profile_29_first,42,[0],40,4.0,pink,224907.0,1.0,5735.799999999814,6981d6306cba8e474856d7ce,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,67698abcc712969d4beef949,pink,introspection,224969,True,1770117352930.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 224904}]",pink
+677743bf62e157794cf97ff4,1.0,3925.5,Strongly Disagree,2.0,failed_distractor,1770118462966,1770117698045,,7328.799999999814,5295.799999999814,shapes/shape_colored/hexagon_v2_blue/BG_020_seq.png,10.0,0.0-0.0,first,False,hexagon,True,20.0,profile_18_first,18,[0],56,4.0,white,2304.0,1.0,,6981d9db0b3dc18a107de160,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,677743bf62e157794cf97ff4,white,introspection,2377,True,1770117728056.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 2301}]",blue
+677948fa843635fdb42a4351,1.0,3246.199999988079,Strongly Disagree,0.0,completed,1770118683967,1770117566177,9.0,11246.40000000596,9310.300000011921,shapes/shape_colored/hexagon_v4_orange/FG_020_seq.png,7.0,0.0-0.0,first,False,hexagon,True,20.0,profile_5_first,64,[0],70,4.0,orange,23107.0,1.0,11918.699999988079,6981d98d0baaba1769a4ab88,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,677948fa843635fdb42a4351,orange,introspection,23224,True,1770117596179.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 23107}]",orange
+677a8e5affbe5673b3a79e6b,1.0,8545.00000000003,Strongly Disagree,0.0,completed,1770117795167,1770116876172,,25777.00000000003,23228.0,color_images/gpt-4o/image_priors/fox_2_52cadfa8_resized_orange/FG_030_seq.png,7.0,0.0-0.0,last,False,fox,True,30.0,profile_13_last,9,[0],{'Q0': 4},4.0,orange,76138.0,1.0,,6981d60eb550f4ceb784e62b,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,677a8e5affbe5673b3a79e6b,orange,color_judgment,76144,True,1770116906173.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 76138}]",orange
+6784133089e3f78e0e08c94d,1.0,6731.60000000149,Strongly Disagree,2.0,failed_distractor,1770117123719,1770116869456,,11046.10000000149,9453.300000000745,color_images/gpt-4o/image_priors/Old_English_sheepdog_4_51cd66d5_resized_grey/FG_040_seq.png,10.0,0.0-0.0,last,False,old english sheepdog,True,40.0,profile_6_last,67,[0],{'Q0': 4},4.0,grey,11963.0,1.0,,6981d6ecceb41f68f6abb256,,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,6784133089e3f78e0e08c94d,grey,color_judgment,12006,True,1770116899460.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 11962}]",grey
+67a36295836566498f2a9c4d,1.0,12090.0,Strongly Disagree,0.0,completed,1770117318581,1770116672602,8.0,21369.0,18857.0,shapes/shape_colored/square_v2_red/FG_055_seq.png,7.0,0.0-0.0,last,False,square,True,55.0,profile_19_last,21,[0],{'Q0': 4},4.0,red,11279.0,1.0,6046.0,6981d620cb5a2c6c2da552cc,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,67a36295836566498f2a9c4d,red,color_judgment,11296,True,1770116702604.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 11279}]",red
+67ebd1d4bb59134cd76d76dd,1.0,6137.80000000447,Strongly Disagree,0.0,completed,1770117322325,1770116671844,10.0,11849.5,10270.39999999851,shapes/shape_colored/hexagon_v2_yellow/FG_090_seq.png,10.0,0.0-0.0,last,False,hexagon,True,90.0,profile_27_last,39,[0],{'Q0': 4},4.0,yellow,13113.0,1.0,6875.60000000149,6981d61e65bf7de19fed6967,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,67ebd1d4bb59134cd76d76dd,yellow,color_judgment,13123,True,1770116701846.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 13113}]",yellow
+68109d22b0ba84c17333ecab,1.0,4560.5,Strongly Disagree,0.0,completed,1770117276611,1770116664798,7.0,8361.299999998882,7127.699999999255,color_images/gpt-4o/counterfact/rose_3_64713026_resized_blue/FG_100_seq.png,10.0,0.0-0.0,last,False,rose,True,100.0,profile_28_last,41,[0],{'Q0': 4},4.0,blue,16365.0,1.0,15425.900000000373,6981d60cf8c1369f8e2a5810,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",counterfact,6962232f30c21461e6a14157,main,68109d22b0ba84c17333ecab,blue,color_judgment,16376,True,1770116694799.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 16365}]",blue
+681485b41e4f472801db525a,1.0,8093.699999988079,Strongly Disagree,0.0,completed,1770117425285,1770116716466,10.0,22233.799999952316,20949.799999952316,shapes/shape_colored/pentagon_v1_pink/FG_090_seq.png,9.0,0.0-0.0,first,False,pentagon,True,90.0,profile_24_first,32,[0],30,4.0,pink,26332.0,1.0,16613.80000001192,6981d619f0f724eebb7a0f10,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,681485b41e4f472801db525a,pink,introspection,26354,True,1770116746468.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 26331}]",pink
+682cd328bd53185cbbb59840,1.0,8450.0,Strongly Disagree,1.0,completed,1770119411827,1770118477814,10.0,13880.5,11409.09999999404,shapes/shape_colored/hexagon_v1_pink/FG_040_seq.png,10.0,0.0-0.0,first,False,hexagon,True,40.0,profile_4_first,62,[0],100,4.0,pink,3062.0,1.0,8213.799999982119,6981df3b6bbabf36b17216cd,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,682cd328bd53185cbbb59840,pink,introspection,3084,True,1770118507815.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 3061}]",pink
+6942a793a0943732e26bc8a2,1.0,14015.09999999404,Strongly Disagree,0.0,completed,1770118243108,1770117054221,5.0,26313.80000001192,24531.30000001192,color_images/gpt-4o/image_priors/bat_(animal)_2_c58feb12_resized_brown/FG_060_seq.png,8.0,0.0-0.0,last,False,bat,True,60.0,profile_7_last,69,[0],{'Q0': 4},4.0,brown,33163.0,1.0,42109.59999999404,6981d5fba526b44dbb8f4f01,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,6962232f30c21461e6a14157,main,6942a793a0943732e26bc8a2,brown,color_judgment,33175,True,1770117084231.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 33163}]",brown
+696abe3b7d7f518c6540fa45,1.0,29064.000000000015,Strongly Disagree,0.0,completed,1770475930203,1770475194488,9.0,36052.0,34384.0,shapes/shape_colored/circle_v1_green/FG_060_seq.png,9.0,0.0-0.0,first,False,circle,True,60.0,profile_35_first,35,[0],70,4.0,green,20172.0,1.0,9753.999999999942,69874e93e01080053667c0f1,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6980c852b1ec006643f6873c,main,696abe3b7d7f518c6540fa45,green,introspection,20179,True,1770475224489.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 20168}]",green
+6978c580d801e64f18d9e3ab,1.0,7079.100000023842,Strongly Disagree,1.0,completed,1770117323048,1770116902642,,13133.90000000596,12202.600000023842,shapes/shape_colored/hexagon_v4_orange/FG_020_seq.png,9.0,0.0-0.0,last,False,hexagon,True,20.0,profile_5_last,65,[0],{'Q0': 4},4.0,orange,91631.0,1.0,,6981d6ab3bd16cef90ffecc5,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,6978c580d801e64f18d9e3ab,orange,color_judgment,91653,True,1770116932653.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 91631}]",orange
+6979436e7618dbc34b1022f3,1.0,3364.199999988079,Strongly Disagree,0.0,completed,1770118061234,1770117337328,,8796.699999988079,7496.399999976158,shapes/shape_colored/hexagon_v1_pink/FG_040_seq.png,10.0,0.0-0.0,last,False,hexagon,True,40.0,profile_4_last,63,[0],{'Q0': 4},4.0,pink,15586.0,1.0,,6981d72443108709d56a499d,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,6979436e7618dbc34b1022f3,pink,color_judgment,15665,True,1770117367330.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 15585}]",pink
+697a5d3fb0c089ca2e54958a,1.0,3866.0,Strongly Disagree,0.0,completed,1770117192502,1770116696579,9.0,14645.0,14129.000000000015,shapes/shape_colored/pentagon_v2_red/FG_030_seq.png,3.0,0.0-0.0,first,False,pentagon,True,30.0,profile_33_first,52,[0],73,4.0,white,23496.0,1.0,5086.0,6981d609709fdde239a49940,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,697a5d3fb0c089ca2e54958a,red,introspection,23501,True,1770116726581.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 23496}]",red
+697ce23c1829fe252ad03260,1.0,3100.5999999046326,Strongly Disagree,0.0,completed,1770117522817,1770116848264,6.0,6170.0,5016.799999952316,shapes/shape_colored/triangle_v2_red/BG_080_seq.png,10.0,0.0-0.0,last,False,triangle,True,80.0,profile_16_last,15,[0],{'Q0': 4},4.0,white,128006.0,1.0,8382.5,6981d602b5f93dffca317fc5,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,6962232f30c21461e6a14157,main,697ce23c1829fe252ad03260,white,color_judgment,128005,True,1770116878277.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 128006}]",red
+TEST_09945e53-dec4-44d4-998d-1834371d1b05,1.0,4713.5,Strongly Disagree,0.0,completed,1770985007193,1770984476366,9.0,16626.80000000447,15617.0,color_images/gpt-4o/image_priors/beets_2_c2d2422e_resized_red/FG_020_seq.png,7.0,0.0-0.0,first,False,beets,True,20.0,profile_2_first,70,[0],10,4.0,red,26336.0,1.0,5227.60000000149,,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,,volunteer,TEST_09945e53-dec4-44d4-998d-1834371d1b05,red,introspection,26345,True,1770984506368.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 26334}]",red
+TEST_1d0e4153-c4e9-44c0-8ef2-7e18a66ae979,1.0,4744.099999904633,,2.0,failed_distractor,1770924338500,1770924325465,,7263.399999856949,6613.5,color_images/gpt-4o/image_priors/beets_2_c2d2422e_resized_red/FG_020_seq.png,5.0,0.0-0.0,first,True,beets,,20.0,profile_2_first,70,,64,,green,1580.0,,,,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,,volunteer,TEST_1d0e4153-c4e9-44c0-8ef2-7e18a66ae979,red,introspection,1590,,,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 1576}]",red
+TEST_6fde0f1f-6fd3-4f1e-8910-6f0f4f74fd32,1.0,17552.0,Strongly Disagree,1.0,completed,1770541408185,1770540674588,10.0,40386.0,39171.0,shapes/shape_colored/triangle_v3_yellow/BG_060_seq.png,8.0,0.0-0.0,last,False,triangle,True,60.0,profile_15_last,69,[0],{'Q0': 4},4.0,white,35452.0,1.0,6756.0,,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",shape,,volunteer,TEST_6fde0f1f-6fd3-4f1e-8910-6f0f4f74fd32,white,color_judgment,35463,True,1770540704588.0,0,instructions,BG,"[{'page_index': 0, 'viewing_time': 35451}]",yellow
+TEST_77ef0348-c4de-435f-ab81-95737f112ff1,1.0,5014.0,Strongly Disagree,2.0,failed_distractor,1770825767264,1770825177517,8.0,21167.0,20111.0,shapes/shape_colored/square_v3_green/FG_100_seq.png,10.0,0.0-0.0,last,False,square,True,100.0,profile_25_last,13,[0],{'Q0': 4},4.0,green,80013.0,1.0,11410.0,,,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",shape,,volunteer,TEST_77ef0348-c4de-435f-ab81-95737f112ff1,green,color_judgment,80021,True,1770825207517.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 80012}]",green
+TEST_8b185b98-7823-4f8f-a50d-cb24aaee8b67,1.0,3398.9999999999854,Strongly Disagree,1.0,completed,1770847520331,1770846314194,7.0,6497.0,5780.999999999985,shapes/shape_colored/square_v3_green/FG_100_seq.png,10.0,0.0-0.0,last,False,square,True,100.0,profile_25_last,13,[0],{'Q0': 4},4.0,green,9761.0,1.0,11597.0,,50.0,"
+      <div style=""
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      "">
+        <h3>Warning</h3>
+        <p>You selected an unreasonable color.</p>
+        <p>
+          Please answer carefully. The study will end if this happens again.
+        </p>
+      </div>
+    ",shape,,volunteer,TEST_8b185b98-7823-4f8f-a50d-cb24aaee8b67,green,color_judgment,9768,True,1770846344193.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 9760}]",green
+TEST_93d01129-bdc6-4c84-a048-0b694b9ed3cd,1.0,34938.000000000015,Strongly Disagree,0.0,completed,1770929297958,1770928344352,10.0,44100.000000000015,42935.000000000015,color_images/gpt-4o/image_priors/beets_2_c2d2422e_resized_red/FG_020_seq.png,5.0,0.0-0.0,first,False,beets,True,20.0,profile_2_first,70,[0],40,4.0,red,29067.0,1.0,8157.999999999971,,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,,volunteer,TEST_93d01129-bdc6-4c84-a048-0b694b9ed3cd,red,introspection,29078,True,1770928374353.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 29063}]",red
+TEST_9a2708b2-a813-499c-8037-935b64837ccf,1.0,3482.0,,2.0,failed_distractor,1770983098344,1770983045394,,44508.0,43329.0,color_images/gpt-4o/image_priors/beets_2_c2d2422e_resized_red/FG_020_seq.png,6.0,0.0-0.0,first,True,beets,,20.0,profile_2_first,70,,64,,green,1808.0,,,,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,,volunteer,TEST_9a2708b2-a813-499c-8037-935b64837ccf,red,introspection,1829,True,1770983075395.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 1808}]",red
+TEST_ba6227fa-c0b3-45ba-9f11-848acec6aa28,1.0,11086.5,Strongly Disagree,0.0,completed,1770536611298,1770535783798,9.0,21687.100000023842,20370.100000023842,color_images/gpt-4o/image_priors/butternut_squash_4_cca6a1a8_resized_green/FG_040_seq.png,6.0,0.0-0.0,last,False,butternut squash,True,40.0,profile_9_last,61,[0],{'Q0': 4},4.0,green,31143.0,1.0,10863.199999928474,,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",correct_prior,,volunteer,TEST_ba6227fa-c0b3-45ba-9f11-848acec6aa28,green,color_judgment,31148,True,1770535813799.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 31139}]",green
+TEST_dfadd2b8-6972-445d-b2ba-c0e58d75d5a8,1.0,9468.69999999553,Strongly Disagree,0.0,completed,1770824182580,1770823420052,5.0,14616.89999999851,12268.69999999553,shapes/shape_colored/square_v1_blue/FG_020_seq.png,10.0,0.0-0.0,last,False,square,True,20.0,profile_36_last,2,[0],{'Q0': 4},4.0,blue,26643.0,1.0,40623.10000000149,,50.0,"
+      <div style=""width:700px; margin:0 auto; text-align:left;"">
+        <p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>
+
+        <p style=""text-align:center; font-size:24px; margin-top:20px;"">
+          Selected value: <b><span id=""slider-value"">50</span>%</b>
+        </p>
+      </div>
+    ",shape,,volunteer,TEST_dfadd2b8-6972-445d-b2ba-c0e58d75d5a8,blue,color_judgment,26652,True,1770823450053.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 26642}]",blue
+TEST_fe9bf5a0-a286-4fd7-9277-3c3a769f8108,1.0,4332.999999999998,Strongly Disagree,0.0,failed_attention,1770734713917,1770734252712,10.0,16699.0,15945.999999999998,shapes/shape_colored/square_v1_blue/FG_020_seq.png,10.0,0.0-0.0,last,False,square,True,20.0,profile_36_last,2,[0],{'Q0': 4},4.0,blue,2338.0,1.0,2768.0,,,,shape,,volunteer,TEST_fe9bf5a0-a286-4fd7-9277-3c3a769f8108,blue,color_judgment,2342,True,1770734282765.0,0,instructions,FG,"[{'page_index': 0, 'viewing_time': 2337}]",blue

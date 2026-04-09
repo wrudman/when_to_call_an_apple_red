@@ -1,0 +1,123 @@
+{
+  "profile_id": "debug_profile",
+  "questions": [
+    {
+      "object": "band aid",
+      "stimulus_type": "correct_prior",
+      "manipulation_color": "pink",
+      "target_color": "white",
+      "variant_region": "BG",
+      "percent_colored": 0,
+      "mode": "seq",
+      "variant_label": "BG 0% (seq)",
+      "image_path": "color_images/gpt-4o/image_priors/Band_Aid_1_e73eed92_resized_pink/BG_000_seq.png"
+    },
+    {
+      "object": "band aid",
+      "stimulus_type": "correct_prior",
+      "manipulation_color": "pink",
+      "target_color": "white",
+      "variant_region": "BG",
+      "percent_colored": 5,
+      "mode": "seq",
+      "variant_label": "BG 5% (seq)",
+      "image_path": "color_images/gpt-4o/image_priors/Band_Aid_1_e73eed92_resized_pink/BG_005_seq.png"
+    },
+    {
+      "question_type": "sanity",
+      "sanity_id": 1,
+      "prompt": "To show you are paying attention, please select \"Strongly Disagree\".",
+      "options": [
+        "Strongly Agree",
+        "Agree",
+        "Neither Agree nor Disagree",
+        "Disagree",
+        "Strongly Disagree"
+      ],
+      "correct_response": "Strongly Disagree"
+    },
+    {
+      "object": "circle",
+      "stimulus_type": "shape",
+      "manipulation_color": "blue",
+      "target_color": "white",
+      "variant_region": "BG",
+      "percent_colored": 0,
+      "mode": "seq",
+      "variant_label": "BG 0% (seq)",
+      "image_path": "shapes/shape_colored/circle_v0_blue/BG_000_seq.png"
+    },
+    {
+      "question_type": "sanity",
+      "sanity_id": 2,
+      "prompt": "Type the word BLUE in the box below.",
+      "response_type": "text",
+      "correct_response": "BLUE"
+    },
+    {
+      "object": "circle",
+      "stimulus_type": "shape",
+      "manipulation_color": "blue",
+      "target_color": "white",
+      "variant_region": "BG",
+      "percent_colored": 5,
+      "mode": "seq",
+      "variant_label": "BG 5% (seq)",
+      "image_path": "shapes/shape_colored/circle_v0_blue/BG_005_seq.png"
+    },
+    {
+      "question_type": "sanity",
+      "sanity_id": 3,
+      "prompt": "Please select option number 3 for this item.",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_response": "Option 3"
+    },
+    {
+      "object": "band aid",
+      "stimulus_type": "correct_prior",
+      "manipulation_color": "pink",
+      "target_color": "white",
+      "variant_region": "BG",
+      "percent_colored": 10,
+      "mode": "seq",
+      "variant_label": "BG 10% (seq)",
+      "image_path": "color_images/gpt-4o/image_priors/Band_Aid_1_e73eed92_resized_pink/BG_010_seq.png"
+    },
+    {
+      "question_type": "sanity",
+      "sanity_id": 4,
+      "prompt": "To show that you are paying attention, please disagree with the following statement.",
+      "statement": "I am currently not paying attention.",
+      "options": [
+        "Agree",
+        "Neither agree nor disagree",
+        "Disagree"
+      ],
+      "correct_response": "Disagree"
+    },
+    {
+      "question_type": "sanity",
+      "sanity_id": 5,
+      "prompt": "For this statement, please select \"Neither Agree nor Disagree\".",
+      "options": [
+        "Strongly Agree",
+        "Agree",
+        "Neither Agree nor Disagree",
+        "Disagree",
+        "Strongly Disagree"
+      ],
+      "correct_response": "Neither Agree nor Disagree"
+    },
+    {
+      "question_type": "introspection",
+      "prompt": "<p>For any object, <b>x%</b> of its pixels should be colored for it to be considered that color.</p><p>For example, imagine an image of a banana, where only part of the banana in the image is colored yellow.</p><p>At what point would you personally say that the banana in the image is yellow?</p><p>What value should <b>x%</b> be?</p>",
+      "min": 0,
+      "max": 100
+    }
+  ]
+}
