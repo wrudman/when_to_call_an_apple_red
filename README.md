@@ -9,7 +9,7 @@
 
 ## Overview
 
-This repository contains the **Graded Color Attribution (GCA)** dataset and evaluation code for our paper studying whether Vision-Language Models (VLMs) faithfully follow their own introspective reasoning rules.
+This repository contains the **Graded Color Attribution (GCA)** dataset and evaluation code for our paper studying whether Vision-Language Models (VLMs) faithfully follow their own introspective reasoning rules. GCA is available on HuggingFace: mgolov/graded-color-attribution. Use run_eval.py to get results for VLMs on GCA. 
 
 **Key finding:** VLMs systematically violate their own stated reasoning rules when world-knowledge priors are present — a failure mode that does *not* mirror human cognition. Humans remain faithful to their stated rules; models do not.
 
