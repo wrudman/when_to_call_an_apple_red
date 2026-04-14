@@ -90,29 +90,22 @@ gca/
 ### Installation
 
 ```bash
-git clone https://github.com/<your-org>/gca.git
-cd gca
+git clone https://github.com/wrudman/when_to_call_an_apple_red.git
+cd when_to_call_an_apple_red
 pip install -r requirements.txt
 ```
 
 ### Running VLM Evaluation
 
 ```bash
-python evaluation/vlm_eval.py \
+python evaluation/run_eval.py \
   --model gpt-4o-mini \
-  --stimulus_type prior_aligned \
   --cot_strategy standard
 ```
 
 Available `--cot_strategy` options: `standard`, `visual_prior`, `post_hoc`, `text_prior`
 
 Available `--stimulus_type` options: `prior_aligned`, `counterfactual`, `no_prior`
-
-### Computing Faithfulness Metrics
-
-```bash
-python analysis/faithfulness.py --results_dir outputs/
-```
 
 ---
 
