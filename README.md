@@ -114,11 +114,14 @@ Available `--stimulus_type` options: `prior_aligned`, `counterfactual`, `no_prio
 If you use GCA in your research, please cite:
 
 ```bibtex
-@article{nemitz2025apple,
-  title={When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't},
-  author={Nemitz, Jonathan and Eickhoff, Carsten and Li, Jessy and Mahowald, Kyle and Golovanevsky, Michal and Rudman, William},
-  journal={arXiv preprint},
-  year={2025}
+@misc{nemitz2026appleredhumansfollow,
+      title={When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't}, 
+      author={Jonathan Nemitz and Carsten Eickhoff and Junyi Jessy Li and Kyle Mahowald and Michal Golovanevsky and William Rudman},
+      year={2026},
+      eprint={2604.06422},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2604.06422}, 
 }
 ```
 
